@@ -1,0 +1,23 @@
+% !TeX program = XeLaTeX
+% !TeX root = AraNyakabook.tex
+\setcounter{page}{0}
+\pagenumbering{arabic}
+%\renewcommand{\sect}[1]{\chapter[#1]{॥#1॥}}
+\setlength{\emergencystretch}{3em}
+\makeatletter
+  \def\vhrulefill#1{\leavevmode\leaders\hrule\@height#1\hfill \kern\z@}
+\makeatother
+\newcounter{anuvakam}
+\newcommand{\anuvakamend}[1][]{\refstepcounter{anuvakam}%[-1ex]
+\newline\ifthenelse{\equal{#1}{}}{\mbox{}}{{\small #1॥}}\nolinebreak[4]\vhrulefill{2.5pt}\raisebox{-4pt}{\bfseries{[\devanumber{\arabic{anuvakam}}]}}%\hrulefill
+}
+\chapt{𑌤𑍈𑌤𑍍𑌤𑌿𑌰𑍀𑌯 𑌆𑌰𑌣𑍍𑌯𑌕𑌮𑍍}
+\input{"aranyakas/ArunaPrashnah.tex"}\clearpage
+\input{"aranyakas/SahaVai.tex"}\clearpage
+\input{"aranyakas/Chittissruk.tex"}\clearpage
+\input{"aranyakas/NamoVache.tex"}\clearpage
+\input{"aranyakas/DevaVai.tex"}\clearpage
+\input{"aranyakas/PareyuvaMsam.tex"}\clearpage
+\input{"aranyakas/Taittiriyopanishat.tex"}\clearpage
+\input{"aranyakas/Mahanarayanopanishat.tex"}\clearpage
+\input{"aranyakas/Kathaka.tex"}
