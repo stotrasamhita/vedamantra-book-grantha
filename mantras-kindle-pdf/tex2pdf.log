@@ -1,0 +1,693 @@
+---------------------------------------------------------------
+File path         : ../mantras/AbhishravanaMantrah.tex
+PDF target        : AbhishravanaMantrah.pdf
+Rebuilding AbhishravanaMantrah.pdf...
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+**entering extended mode
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+*(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+*(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo))
+*(./shloka.sty (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty))
+(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty)
+*
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(Please type a command or say `\end')
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(./AbhishravanaMantrah.aux)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+(./AbhishravanaMantrah.out) (./AbhishravanaMantrah.out)
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+*
+*
+*
+*
+*
+*
+*(../mantras/AbhishravanaMantrah.tex
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(1)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(1)/m/n' instead on input line 3.
+
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(2)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(2)/m/n' instead on input line 3.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def)
+! Undefined control sequence.
+l.43  ጤጂ \ul{ጯ}\-ጜፍጞጂ \ul{ጬ}\-\ar
+                                  ጹጿ\-\ul{ጷጿ} ጪፍጰፗጕፍጷ\sn।
+? Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+! Emergency stop.
+l.43  ጤጂ \ul{ጯ}\-ጜፍጞጂ \ul{ጬ}\-\ar
+                                  ጹጿ\-\ul{ጷጿ} ጪፍጰፗጕፍጷ\sn।
+No pages of output.
+Transcript written on AbhishravanaMantrah.log.
+---------------------------------------------------------------
+File path         : ../mantras/AghamarshanaSuktam.tex
+PDF target        : AghamarshanaSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/AshirvadaMantrah.tex
+PDF target        : AshirvadaMantrah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/Aupasanam.tex
+PDF target        : Aupasanam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/AyushyaSuktam.tex
+PDF target        : AyushyaSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/BhagyaSuktam.tex
+PDF target        : BhagyaSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/BhuSuktam.tex
+PDF target        : BhuSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/Brahmayajna.tex
+PDF target        : Brahmayajna.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/ChamakaPrashnah-learn.tex
+PDF target        : ChamakaPrashnah-learn.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/ChamakaPrashnah.tex
+PDF target        : ChamakaPrashnah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/DashaShantayah.tex
+PDF target        : DashaShantayah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/DurgaSuktam.tex
+PDF target        : DurgaSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/Ganapatyatharvashirsham.tex
+PDF target        : Ganapatyatharvashirsham.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/GhoshaShanti.tex
+PDF target        : GhoshaShanti.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/JayadiHomah.tex
+PDF target        : JayadiHomah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/KriminashanaMantrah.tex
+PDF target        : KriminashanaMantrah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/LaghuNyasah.tex
+PDF target        : LaghuNyasah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/MahaNyasah.tex
+PDF target        : MahaNyasah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/MantraPushpam.tex
+PDF target        : MantraPushpam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/MedhaSuktam.tex
+PDF target        : MedhaSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/MrtyunjayaHomaMantrah.tex
+PDF target        : MrtyunjayaHomaMantrah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/NakshatraSuktam.tex
+PDF target        : NakshatraSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/NarayanaSuktam.tex
+PDF target        : NarayanaSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/NavagrahaSuktam.tex
+PDF target        : NavagrahaSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/PavamanaSuktam.tex
+PDF target        : PavamanaSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/PurushaSuktam.tex
+PDF target        : PurushaSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/RudraPadaPatha.tex
+PDF target        : RudraPadaPatha.pdf
+Rebuilding RudraPadaPatha.pdf...
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+**entering extended mode
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+*(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+*(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo))
+*(./shloka.sty (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty))
+(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty)
+*
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(Please type a command or say `\end')
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(./RudraPadaPatha.aux) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+(./RudraPadaPatha.out) (./RudraPadaPatha.out)
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+*
+*
+*
+*
+*
+*
+*(../mantras/RudraPadaPatha.tex
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(1)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(1)/m/n' instead on input line 5.
+
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(2)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(2)/m/n' instead on input line 5.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def)
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/B' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/BI' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[1]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[2]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[3]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[4]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[5]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[6]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[7]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[8]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[9]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[10]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[11])
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[12] (./RudraPadaPatha.aux)
+
+Package rerunfilecheck Warning: File `RudraPadaPatha.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+(see the transcript file for additional information)
+Output written on RudraPadaPatha.pdf (12 pages).
+Transcript written on RudraPadaPatha.log.
+---------------------------------------------------------------
+File path         : ../mantras/RudraPrashnah.tex
+PDF target        : RudraPrashnah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/Samidadhanam.tex
+PDF target        : Samidadhanam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/Sandhyavandanam.tex
+PDF target        : Sandhyavandanam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/SandhyavandanaMantrah.tex
+PDF target        : SandhyavandanaMantrah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/SandhyavandanaPrayoga.tex
+PDF target        : SandhyavandanaPrayoga.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/SandhyopasthanaMantrah.tex
+PDF target        : SandhyopasthanaMantrah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/ShantiPanchakam.tex
+PDF target        : ShantiPanchakam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/ShriSuktam.tex
+PDF target        : ShriSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/TrisuparnaMantrah.tex
+PDF target        : TrisuparnaMantrah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/UdakaShanti.tex
+PDF target        : UdakaShanti.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/VaishvadevaMantrah.tex
+PDF target        : VaishvadevaMantrah.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/VishnuSuktam.tex
+PDF target        : VishnuSuktam.pdf
+PDF up-to-date.
+---------------------------------------------------------------
+File path         : ../mantras/YajurUpakarma.tex
+PDF target        : YajurUpakarma.pdf
+PDF up-to-date.

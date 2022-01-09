@@ -1,19 +1,22 @@
-\documentclass[oneside,12pt]{book}
+\documentclass[oneside,14pt]{book}
+\usepackage{extsizes}
 \usepackage{shloka}
 
 %%% PAGE SIZE and MARGINS %%%
-\usepackage[paperwidth=126mm,paperheight=168mm,left=4mm,right=4mm,top=9mm,bottom=10mm]{geometry}
-\addtolength{\headsep}{-4mm}
+\usepackage[paperwidth=104.5mm,paperheight=139.5mm,left=3mm,right=3mm,top=9mm,bottom=9mm]{geometry}
+\addtolength{\headsep}{-8mm}
+\addtolength{\footskip}{-4mm}
+\addtolength{\textheight}{8mm}
 \setmainfont[Scale=0.50,Script=Grantha]{Noto Serif Grantha}
 
 %%% HEADERS and FOOTERS %%%
 \usepackage{fancyhdr}
 \pagestyle{fancyplain}
 \setlength{\headheight}{28pt}
-\lhead[\fancyplain{}{\pagenumfont\large\thepage}]
+\lhead[\fancyplain{}{\pagenumfont\thepage}]
    {\fancyplain{}{\leftmark}}
 \rhead[\fancyplain{}{\leftmark}]
-   {\fancyplain{}{\pagenumfont\large\thepage}}
+   {\fancyplain{}{\pagenumfont\thepage}}
 \cfoot{}
 \fancyfoot[C]{\mbox{}}
 \renewcommand{\footrulewidth}{0.4pt}% default is 0pt
@@ -21,7 +24,7 @@
 \fancyhf{} % remove everything
 \renewcommand{\headrulewidth}{0pt} % remove lines as well
 \renewcommand{\footrulewidth}{0pt}
-\cfoot{\pagenumfont\large\thepage}}
+\cfoot{\pagenumfont\thepage}}
 
 %%% SECTIONS and CHAPTERS %%%
 \makeatletter
@@ -31,29 +34,29 @@
 %{2.3ex \@plus.2ex}%
 {10pt}
 {2pt}
-{\centering\normalfont\LARGE\bfseries}}
+{\centering\normalfont\large\bfseries}}
 
 \renewcommand\chapter{\resetShloka\@startsection {chapter}{1}{\z@}%
 {10pt}
 {2pt}
-{\normalfont\LARGE\bfseries\filcenter}}
+{\normalfont\Large\bfseries\filcenter}}
 \makeatother
 
 \setcounter{secnumdepth}{-1}
 %for weird reasons this does not bookmark the section start, but the start of text in the section!!!
 %\renewcommand\thesection{}
 \renewcommand{\sectionmark}[1]{%
-\markboth{\large #1}{}}
+\markboth{#1}{}}
 \renewcommand{\subsectionmark}[1]{%
-\markboth{\large #1}{}}
+\markboth{#1}{}}
 \renewcommand{\chaptermark}[1]{%
-\markboth{\large #1}{}}
+\markboth{#1}{}}
 
 \addtolength{\parskip}{4pt}
 %\addtolength{\headsep}{10pt}
 \setlength{\columnseprule}{1pt}
 \setlength{\columnsep}{30pt}
-\setlength{\parindent}{0pt}
+% \setlength{\parindent}{0pt}
 
 %%% HYPERLINKS %%%
 \usepackage[bookmarks=true,bookmarksopen=true,xetex,colorlinks=true,
@@ -78,19 +81,19 @@ urlcolor=blue				% colour of external links
 \newcommand{\sav}{\char"093D\char"E007}
 \newcommand{\sG}{\char"0919\char"094D\char"E007}
 \begin{document}
-\Large\setmainfont[Scale=0.50,Script=Grantha,Mapping=tex-text]{Noto Serif Grantha}
-\fontsize{19pt}{23pt}\selectfont
+\setmainfont[Scale=0.50,Script=Grantha,Mapping=tex-text]{Noto Serif Grantha}
+% \fontsize{19pt}{23pt}\selectfont
 %The following alters word spacing to ensure that words aren't too close to one another!
 \spaceskip=1\fontdimen2\font plus 1\fontdimen3\font minus 1.25\fontdimen4\font
-\setlength{\parindent}{0pt}
+% \setlength{\parindent}{0pt}
 \setlength{\emergencystretch}{3em}
-\renewcommand{\sect}[1]{\chapter[#1]{॥#1॥}}
+%\renewcommand{\sect}[1]{\chapter[#1]{॥#1॥}}
 \makeatletter
   \def\vhrulefill#1{\leavevmode\leaders\hrule\@height#1\hfill \kern\z@}
 \makeatother
 \newcounter{anuvakam}
 \newcommand{\anuvakamend}[1][]{\refstepcounter{anuvakam}%[-1ex]
-\newline\ifthenelse{\equal{#1}{}}{\mbox{}}{{\small #1॥}}\nolinebreak[4]\vhrulefill{2.5pt}\raisebox{-4pt}{\bfseries{[\devanumber{\arabic{anuvakam}}]}}%\hrulefill
+\newline\ifthenelse{\equal{#1}{}}{\mbox{}}{{\scriptsize #1॥}}\nolinebreak[4]\vhrulefill{2.5pt}\raisebox{-4pt}{\bfseries{[\devanumber{\arabic{anuvakam}}]}}%\hrulefill
 }
 \chapt{𑌤𑍈𑌤𑍍𑌤𑌿𑌰𑍀𑌯 𑌆𑌰𑌣𑍍𑌯𑌕𑌮𑍍}
 \input{"FPATH"}
@@ -98,7 +101,7 @@ urlcolor=blue				% colour of external links
 \hrule
 \footnotesize
 \urlstyle{sf}
-\textsf{%
+\noindent\textsf{%
 This PDF was downloaded from \url{http://stotrasamhita.github.io}.\\[1ex]
 \noindent GitHub: \url{http://stotrasamhita.github.io}~|~\url{http://github.com/stotrasamhita}\\[0.7ex]
 Credits: \url{http://stotrasamhita.github.io/about/}}

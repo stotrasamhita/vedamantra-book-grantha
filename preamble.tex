@@ -6,15 +6,15 @@
 % \setmainfont[Scale=0.50,Script=Grantha]{Noto Serif Grantha}
 \setmainfont[Scale=0.50,Script=Grantha]{Noto Serif Grantha}
 % \newfontscript{Devanagari}{deva,dev2}
-\overfullrule=10pt
+% \overfullrule=10pt
 %%% HEADERS and FOOTERS %%%
 \usepackage{fancyhdr}
 \pagestyle{fancyplain}
 \setlength{\headheight}{28pt}
-\lhead[\fancyplain{}{\pagenumfont\large\thepage}]
-   {\fancyplain{}{\leftmark}}
-\rhead[\fancyplain{}{\leftmark}]
-   {\fancyplain{}{\pagenumfont\large\thepage}}
+\lhead[\fancyplain{}{\pagenumfont\small\thepage}]
+   {\fancyplain{}{\small\leftmark}}
+\rhead[\fancyplain{}{\small\leftmark}]
+   {\fancyplain{}{\pagenumfont\small\thepage}}
 \cfoot{}
 \fancyfoot[C]{\mbox{}}
 \renewcommand{\footrulewidth}{0.4pt}% default is 0pt
@@ -32,26 +32,25 @@
 %{2.3ex \@plus.2ex}%
 {10pt}
 {2pt}
-{\centering\normalfont\LARGE\bfseries}}
+{\centering\normalfont\large\bfseries}}
 
 \renewcommand\chapter{\ifbool{kindle}{\newpage}{}\resetShloka\@startsection {chapter}{1}{\z@}%
 {10pt}
 {2pt}
-{\normalfont\LARGE\bfseries\filcenter}}
+{\normalfont\Large\bfseries\filcenter}}
 \makeatother
 
 \setcounter{secnumdepth}{-1}
 %for weird reasons this does not bookmark the section start, but the start of text in the section!!!
 %\renewcommand\thesection{}
 \renewcommand{\sectionmark}[1]{%
-\markboth{\large #1}{}}
+\markboth{#1}{}}
 \renewcommand{\subsectionmark}[1]{%
-\markboth{\large #1}{}}
+\markboth{#1}{}}
 \renewcommand{\chaptermark}[1]{%
-\markboth{\large #1}{}}
+\markboth{#1}{}}
 
 \addtolength{\parskip}{4pt}
-%\addtolength{\headsep}{10pt}
 \setlength{\columnseprule}{1pt}
 \setlength{\columnsep}{30pt}
 
@@ -66,16 +65,3 @@ urlcolor=black					% colour of external links
 %%% MISCELLANEOUS %%%
 \hbadness=10000
 \vbadness=10000
-% \hfuzz=6pt
-% \listfiles
-
-\newcommand{\ar}{\char"0930\char"094D\char"E009}
-\newcommand{\ur}{\char"0930\char"094D\char"200C}
-\newcommand{\sr}{\char"0930\char"094D\char"E007}
-\newcommand{\sn}{\char"0928\char"094D\char"E007}
-\newcommand{\snn}{\char"0928\char"094D\char"0928\char"094D\char"E007}
-\newcommand{\an}{\char"0928\char"094D\char"E009}
-% \newcommand{\aav}{\char"093D\char"E009}
-% \newcommand{\sav}{\char"093D\char"E007}
-\newcommand{\sG}{\char"0919\char"094D\char"E007}
-\newcommand{\akhkhi}{\char"0916\char"094D\char"0916\char"093F\char"E009\hspace{-2ex} \char"E009\hspace{1.2ex}}
