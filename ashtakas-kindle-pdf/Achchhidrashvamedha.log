@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.11.26)  9 JAN 2022 09:55
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.11.26)  9 JAN 2022 10:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -345,7 +345,7 @@ Package: bbding 1999/04/15 v1.01 Dingbats symbols
 (Please type a command or say `\end')
 *%%% PAGE SIZE and MARGINS %%%
 
-*\usepackage[paperwidth=104.5mm,paperheight=139.5mm,left=3mm,right=3mm,top=9mm,
+*\usepackage[paperwidth=104.5mm,paperheight=139.5mm,left=6mm,right=6mm,top=9mm,
 bottom=9mm]{geometry}
 
 *\addtolength{\headsep}{-8mm}
@@ -370,7 +370,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 *\addtolength{\footskip}{-4mm}
 
-*\addtolength{\textheight}{8mm}
+*%\addtolength{\textheight}{8mm}
 
 *\setmainfont[Scale=0.50,Script=Grantha]{Noto Serif Grantha}
 
@@ -686,7 +686,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 *% \newcommand{\sG}{\char"0919\char"094D\char"E007}
 
 *\begin{document}
-No file Achchhidrashvamedha.aux.
+(./Achchhidrashvamedha.aux)
 \openout1 = `Achchhidrashvamedha.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 0.
@@ -700,6 +700,7 @@ LaTeX Font Info:    ... okay on input line 0.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 0.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 0
 .
+
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -741,14 +742,14 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(8.53581pt, 280.25967pt, 8.53581pt)
+* h-part:(L,W,R)=(17.07164pt, 263.18802pt, 17.07164pt)
 * v-part:(T,H,B)=(25.60747pt, 345.701pt, 25.60747pt)
 * \paperwidth=297.3313pt
 * \paperheight=396.91594pt
-* \textwidth=280.25967pt
-* \textheight=368.4632pt
-* \oddsidemargin=-63.73418pt
-* \evensidemargin=-63.73418pt
+* \textwidth=263.18802pt
+* \textheight=345.701pt
+* \oddsidemargin=-55.19835pt
+* \evensidemargin=-55.19835pt
 * \topmargin=-85.66252pt
 * \headheight=28.0pt
 * \headsep=2.23781pt
@@ -782,6 +783,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 0.
 LaTeX Info: Redefining \pageref on input line 0.
 LaTeX Info: Redefining \nameref on input line 0.
+
+(./Achchhidrashvamedha.out) (./Achchhidrashvamedha.out)
 \@outlinefile=\write3
 \openout3 = `Achchhidrashvamedha.out'.
 
@@ -963,78 +966,1311 @@ nd=1.08;mapping=tex-text;"
 
 LaTeX Font Info:    Font shape `TU/NotoSerifGrantha(3)/m/n' will be
 (Font)              scaled to size 7.2pt on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
 
-! Undefined control sequence.
-l.6 ጸ\-\ul
-          {ጰፍጵጾ}\-\-\ul{ጨፍ} ጵጾ \ul{ጏ}\-ጷፋ॑\-ጽ጗ፍጨፗ ጕጾ\-\ul{ጮጾ}\-ጨፍጪፍጰጵፇ᳴ጶጯጤጿ।
-? \vfill
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? \hrule
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? \footnotesize
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? \urlstyle{sf}
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? \textsf{%
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? This PDF was downloaded from \url{http://stotrasamhita.github.io}.\\[1ex]
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? \noindent GitHub: \url{http://stotrasamhita.github.io}~|~\url{http://github.c
-om/stotrasamhita}\\[0.7ex]
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? Credits: \url{http://stotrasamhita.github.io/about/}}
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? \end{document}
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? 
-! Emergency stop.
-l.6 ጸ\-\ul
-          {ጰፍጵጾ}\-\-\ul{ጨፍ} ጵጾ \ul{ጏ}\-ጷፋ॑\-ጽ጗ፍጨፗ ጕጾ\-\ul{ጮጾ}\-ጨፍጪፍጰጵፇ᳴ጶጯጤጿ।
-End of file on the terminal!
+Overfull \hbox (10.11674pt too wide) in paragraph at lines 18--28
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌕𑌾𑌮᳴𑌪𑍍𑌰𑍀𑌤𑌾 𑌏-[]  𑌕𑌾-[]  𑌅-[]  𑌪𑍍𑌰𑌯𑌾॑𑌨𑍍𑌤𑌿। -[
+] --[] -𑌸𑍍𑌵𑍀 [] -𑌰𑍍𑌯𑌾᳴𑌵𑌾𑌨𑍍𑌭𑌵𑌤𑌿।
+ []
 
+LaTeX Font Info:    Font shape `TU/NotoSerifGrantha(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 52.
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Info: Noto Sans/B scale = 0.5184103353915045.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/B' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Info: Noto Sans/I scale = 0.5279838530605739.
+
+
+Package fontspec Info: Noto Sans/I scale = 0.5279838530605739.
+
+
+Package fontspec Info: Noto Sans/BI scale = 0.5184103353915045.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/BI' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Info: Font family 'NotoSans(0)' created for font 'Noto Sans'
+(fontspec)             with options
+(fontspec)             [Scale=MatchLowercase,Mapping=tex-text,Numbers=Lining].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.5278531197258661]"Noto
+(fontspec)             Sans/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.5184103353915045]"Noto
+(fontspec)             Sans/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.5279838530605739]"Noto
+(fontspec)             Sans/I/OT:script=latn;language=dflt;+lnum;mapping=tex-te
+xt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[0.5279838530605739]"Noto
+(fontspec)             Sans/I/OT:script=latn;language=dflt;+lnum;+smcp;mapping=
+tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.5184103353915045]"Noto
+(fontspec)             Sans/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/n' will be
+(Font)              scaled to size 5.27847pt on input line 52.
+[1
+
+]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[2]
+LaTeX Font Info:    Font shape `TU/NotoSerifGrantha(1)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 119.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 119.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 119.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 119.
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[3]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[4]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[5]
+Overfull \hbox (6.77351pt too wide) in paragraph at lines 221--231
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌜-[]  𑌤𑍁 𑌨𑌾𑌶𑍍𑌞𑍀᳴𑌯𑌾𑌤𑍍। 𑌯-[] -𑌜𑌸𑍍𑌯𑌾॑-[] -
+𑌯𑌾𑌤𑍍। 𑌯𑌾-[] -𑌵𑌾𑌗𑍍𑌨𑌾𑌵𑌾𑌹𑍁᳴𑌤𑌿𑌂
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[6]
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[7]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[8]
+Overfull \hbox (32.4199pt too wide) in paragraph at lines 358--368
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌗𑍍𑌨𑌿𑌜𑍍𑌯𑍇॑𑌷𑍍𑌠𑍇𑌭𑍍𑌯𑌃। 𑌵𑌸𑍁᳴𑌭𑍍𑌯𑍋 [] -𑌜𑍍𑌞𑌂 𑌪𑍍𑌰𑌬𑍍𑌰᳴𑌵𑍀
+𑌮𑌿। -[] -𑌦-[] -𑌹𑌮𑌿𑌨𑍍𑌦𑍍𑌰᳴𑌜𑍍𑌯𑍇𑌷𑍍𑌠𑍇𑌭𑍍𑌯𑌃॥29॥ 
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[9]
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[10]
+Overfull \hbox (26.63112pt too wide) in paragraph at lines 442--452
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌵𑍇𑌯𑍞 𑌰𑌜𑍍𑌜𑍁᳴𑌰-[] -𑌧𑌾𑌨𑍀॑। -[] --[] -𑌯𑌾𑌮𑍁𑌪
+᳴ 𑌸𑍇𑌵𑌤𑌾𑌮𑍍। 𑌅𑌪𑍍𑌰᳴𑌸𑍍𑌰𑍞𑌸𑌾𑌯
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[11]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[12]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[13]
+Overfull \hbox (30.46393pt too wide) in paragraph at lines 574--584
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌦𑍍𑌧𑍟 𑌸𑍍𑌵𑌿᳴𑌷𑍍𑌟-[] -𑌦𑍞 [] -𑌵𑌿𑌃। 𑌮𑌨𑍁᳴𑌨𑌾 [] -𑌷𑍍𑌟𑌾𑌂
+ [] -𑌤𑌪᳴𑌦𑍀𑌮𑍍। -[] -𑌤𑍍𑌰𑌾𑌵𑌰𑍁᳴𑌣𑌸𑌮𑍀𑌰𑌿𑌤𑌾𑌮𑍍।
+ []
+
+
+Overfull \hbox (13.14314pt too wide) in paragraph at lines 586--596
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌦𑌦᳴𑌤𑍋 []  𑌮𑌾 𑌕𑍍𑌷𑌾᳴𑌯𑌿। -[] --[] -𑌤𑍋 []  𑌮𑍋𑌪᳴𑌦𑌸𑌤
+𑍍। -[] -𑌶𑌾𑌂 𑌕𑍢𑌪𑍍𑌤𑌿᳴𑌰𑌸𑌿।
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[14]
+Overfull \hbox (13.36153pt too wide) in paragraph at lines 598--608
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌲𑍇𑌭𑍍𑌯𑌃᳴। -[] -𑌤𑍁𑌰𑍍𑌭𑍍𑌯𑍋᳴ [] -𑌮𑍃𑌤𑍇॑𑌭𑍍𑌯𑌃। -[]
+ -𑌦𑌂 [] -𑌤𑌸𑍍𑌯𑌾𑌧𑍍𑌯᳴𑌕𑍍𑌷𑍇𑌭𑍍𑌯𑌃॥49॥ 
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[15]
+Overfull \hbox (11.18948pt too wide) in paragraph at lines 677--687
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌪𑌰𑌿᳴𑌸𑍍𑌤𑍃𑌣𑍀-[]  𑌪𑌰𑌿᳴𑌧-[] -𑌗𑍍𑌨𑌿𑌮𑍍। 𑌪𑌰𑌿᳴𑌹𑌿-[] -
+-𑌽𑌗𑍍𑌨𑌿𑌰𑍍𑌯𑌜᳴𑌮𑌾𑌨𑌂 𑌭𑍁𑌨𑌕𑍍𑌤𑍁।
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[16]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[17]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[18]
+Overfull \hbox (11.85191pt too wide) in paragraph at lines 797--807
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌅𑌧᳴-[]  𑌮-[] -𑌪𑌤𑍍𑌨𑌾𑌃॑। -[] -𑌯𑍟 [] -𑌲𑍀 [] -𑌤𑌸
+𑍍𑌯᳴ [] -𑌰𑍍𑌣𑌾। 𑌅𑌚𑍍𑌛𑌿᳴𑌨𑍍𑌨𑌪𑌯𑌾𑌃
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[19]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[20]
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (19.34236pt too wide) in paragraph at lines 857--867
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌆𑌯𑍁᳴-[]  𑌵𑌰𑍍𑌚᳴𑌸𑍇। -[] -𑌵𑌾𑌤𑍍𑌵𑍈 𑌪𑍁𑌣𑍍𑌯𑌾᳴𑌯। 𑌮-[]
+  𑌜𑍍𑌯𑍋𑌤𑌿᳴𑌰𑍍𑌜𑍁𑌷-
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[21]
+Overfull \hbox (8.32631pt too wide) in paragraph at lines 905--915
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] --[] -𑌤𑍇𑌨᳴ []  𑌸𑌨𑍍𑌤𑌿᳴𑌷𑍍𑌠𑌸𑍍𑌵। -[] --[] --
+[] --[] -𑌸𑍇𑌨᳴ []  𑌸𑌨𑍍𑌤𑌿᳴𑌷𑍍𑌠𑌸𑍍𑌵।
+ []
+
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[22]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[23]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[24]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[25]
+Overfull \hbox (22.69753pt too wide) in paragraph at lines 1095--1105
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌸𑍁𑌬𑍍𑌰𑌹𑍍𑌮𑌣𑍍𑌯𑍇। 𑌤𑌸𑍍𑌯𑌾॑𑌸𑍍𑌤𑍇 𑌪𑍃-[] -𑌵𑍀 𑌪𑌾𑌦𑌃᳴। 𑌸𑌾𑌽𑌸
+𑌿᳴ 𑌸𑍁𑌬𑍍𑌰𑌹𑍍𑌮𑌣𑍍𑌯𑍇।
+ []
+
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[26]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[27]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[28]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[29]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[30]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[31]
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[32]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[33]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[34]
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[35]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[36]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[37]
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[38]
+LaTeX Font Info:    Font shape `TU/NotoSerifGrantha(1)/m/n' will be
+(Font)              scaled to size 4.0pt on input line 1622.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1622.
+
+Package fontspec Info: Noto Serif Grantha scale = 0.4999981278526845.
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[39]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[40]
+Overfull \hbox (8.27594pt too wide) in paragraph at lines 1711--1721
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌵 [] -𑌵𑍇𑌭𑍍𑌯𑌃᳴ [] -𑌜𑌾𑌪᳴𑌤𑌯𑍇 𑌪𑍍𑌰-[] -𑌪𑍍𑌰𑍋𑌚𑍍𑌯𑌾
+-[]  𑌮𑍇𑌧𑍍𑌯𑌂᳴ 𑌬𑌧𑍍𑌨𑌾𑌤𑌿॥7॥ 
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[41]
+Overfull \hbox (9.06311pt too wide) in paragraph at lines 1747--1757
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌤𑌯𑌾᳴ [] -𑌵𑌾𑌃 [] -𑌤𑌮𑌾 𑌬᳴𑌭𑍂-[] -𑌰𑌿𑌤𑍍𑌯𑌾᳴𑌹। 𑌭𑍂𑌤𑌿᳴-
+[] -𑌵𑍋𑌪𑌾𑌵᳴𑌰𑍍𑌤𑌤𑍇।
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[42]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[43]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[44]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[45]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[46]
+Overfull \hbox (8.51353pt too wide) in paragraph at lines 1914--1924
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌜𑍁𑌹𑍋𑌤𑌿। -[] -𑌷𑍍𑌣𑍇 𑌸𑍍𑌵𑌾𑌹𑍇𑌤𑍍𑌯𑌾᳴𑌹। -[] -𑌷𑍍𑌣 [] -𑌵
+𑍈𑌨𑌂᳴ 𑌜𑍁𑌹𑍋𑌤𑌿।
+ []
+
+
+Overfull \hbox (6.55032pt too wide) in paragraph at lines 1914--1924
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌬𑍃-[] -𑌸𑍍𑌪𑌤᳴-[]  𑌸𑍍𑌵𑌾𑌹𑍇𑌤𑍍𑌯𑌾᳴𑌹। 𑌬𑍃-[] -𑌸𑍍𑌪𑌤᳴𑌯 [
+] -𑌵𑍈𑌨𑌂᳴ 𑌜𑍁𑌹𑍋𑌤𑌿।
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[47]
+Overfull \hbox (11.83511pt too wide) in paragraph at lines 1968--1983
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌵𑌿𑌶𑍍𑌵𑍇॑𑌭𑍍𑌯𑌸𑍍𑌤𑍍𑌵𑌾 [] -𑌤𑍇-[]  𑌇𑌤𑍍𑌯𑌾᳴𑌹। 𑌤𑌸𑍍𑌮𑌾᳴𑌦𑌶𑍍
+𑌵𑌮𑍇𑌧-[] -𑌜𑌿-[] --[]  𑌸𑌰𑍍𑌵𑌾᳴𑌣𑌿
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[48]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[49]
+Overfull \hbox (8.52312pt too wide) in paragraph at lines 2060--2070
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌗𑍍𑌨-[]  𑌸𑍍𑌵𑌾-[]  𑌸𑍍𑌵𑌾𑌹𑍇॑-[] -𑌗𑍍𑌨𑌿-[] -𑌮𑌿𑌤𑌿
+᳴ 𑌪𑍂𑌰𑍍𑌵-[] -𑌮𑌾𑌂 𑌜𑍁᳴𑌹𑍋𑌤𑌿।
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[50]
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (6.43513pt too wide) in paragraph at lines 2095--2105
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌕𑍍𑌷𑌾𑌽𑌭᳴𑌵𑌤𑍍। 𑌸 [] -𑌤𑌾𑌨𑌿᳴ 𑌵𑍈𑌶𑍍𑌵-[] -𑌵𑌾𑌨𑍍𑌯᳴𑌪𑌶
+𑍍𑌯𑌤𑍍। 𑌤𑌾𑌨𑍍𑌯᳴𑌜𑍁𑌹𑍋𑌤𑍍।
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[51]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[52]
+Overfull \hbox (8.47754pt too wide) in paragraph at lines 2167--2185
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌷𑍍𑌣𑍇 𑌪𑍍𑌰᳴-[] -𑌥𑍍𑌯𑌾᳴-[]  𑌸𑍍𑌵𑌾𑌹𑌾᳴ [] -𑌷𑍍𑌣𑍇 [
+] -𑌰𑌨𑍍𑌧𑌿᳴𑌷𑌾-[]  𑌸𑍍𑌵𑌾𑌹𑍇𑌤𑍍𑌯𑌾᳴𑌹।
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[53]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[54]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[55]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[56]
+Missing character: There is no ़ in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[57]
+Overfull \hbox (25.5463pt too wide) in paragraph at lines 2342--2352
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌜𑌾𑌪᳴𑌤𑌿𑌰𑌶𑍍𑌵-[] -𑌧𑌮᳴𑌸𑍃𑌜𑌤। 𑌤𑍞 [] -𑌷𑍍𑌟𑍞 𑌰𑌕𑍍
+𑌷𑌾𑍟᳴𑌸𑍍𑌯𑌜𑌿𑌘𑌾𑍞𑌸𑌨𑍍।
+ []
+
+
+Overfull \hbox (24.7015pt too wide) in paragraph at lines 2354--2364
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌨𑌕𑍍𑌤𑌂᳴ 𑌜𑍁𑌹𑍋𑌤𑌿। 𑌰𑌕𑍍𑌷᳴-[] -𑌮𑌪᳴𑌹𑌤𑍍𑌯𑍈। 𑌆𑌜𑍍𑌯𑍇᳴𑌨𑌾-[]
+ -𑌤𑍋 𑌜𑍁᳴𑌹𑍋𑌤𑌿॥57॥ 
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[58]
+Overfull \hbox (13.21269pt too wide) in paragraph at lines 2385--2395
+[]  \TU/NotoSerifGrantha(1)/b/n/14.4 𑌸𑍍𑌵𑌾-[]  𑌦𑍍𑌵𑌾-[] --[]  𑌸𑍍𑌵𑌾𑌹𑍇𑌤𑍍𑌯᳴𑌭𑌿-[] -𑌰𑍍
+𑌵𑌮𑌾𑌹𑍁᳴𑌤𑍀𑌰𑍍𑌜𑍁𑌹𑍋𑌤𑌿।
+ []
+
+
+Overfull \hbox (12.91508pt too wide) in paragraph at lines 2385--2395
+\TU/NotoSerifGrantha(1)/b/n/14.4 -[] --[] --[] -𑌰𑍍𑌵-[] -𑌵 𑌸𑍁᳴-[] -𑌰𑍍𑌗𑌂 [] -𑌕𑌮𑍇᳴
+𑌤𑌿। -[] --[] --[] -𑌰𑌂 𑌜𑍁᳴𑌹𑍋𑌤𑌿॥59॥ 
+ []
+
+
+Overfull \hbox (16.87035pt too wide) in paragraph at lines 2409--2419
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌨𑍍𑌯᳴𑌰𑍍𑌬𑍁𑌦𑌾-[]  𑌸𑍍𑌵𑌾𑌹𑍇𑌤𑍍𑌯𑌾᳴𑌹। 𑌯𑍋 𑌵𑍈 [] -𑌚𑍋 [] -
+𑌮𑌾। 𑌤𑌨𑍍𑌨𑍍𑌯᳴𑌰𑍍𑌬𑍁𑌦𑌮𑍍।
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[59]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[60]
+Overfull \hbox (14.47032pt too wide) in paragraph at lines 2464--2474
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌕𑌸𑍍𑌯𑌾𑌪𑍍𑌤𑍍𑌯𑍈॑। -[] -𑌤𑌂 𑌭𑌵𑍍𑌯𑌂᳴ 𑌭-[] -𑌷𑍍𑌯𑌦𑌿-[
+]  𑌪𑌰𑍍𑌯𑌾॑𑌪𑍍𑌤𑍀𑌰𑍍𑌜𑍁𑌹𑍋𑌤𑌿।
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[61]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[62]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[63]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[64]
+Overfull \hbox (11.20874pt too wide) in paragraph at lines 2611--2621
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌪𑌰𑌿᳴ 𑌗𑍃𑌹𑍍𑌣𑌾𑌤𑌿। 𑌷-[] --[] -𑌵𑌾 𑌭᳴𑌵𑌨𑍍𑌤𑌿। -[] --[]
+ --[] --[] -𑌸𑌸𑍍𑌯𑌾𑌵᳴𑌰𑍁𑌦𑍍𑌧𑍍𑌯𑍈।
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[65]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[66]
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[67]
+Overfull \hbox (11.50392pt too wide) in paragraph at lines 2711--2727
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌭𑌵𑌤𑌿। -[] --[] --[] --[] -𑌶𑍋॑𑌽𑌗𑍍𑌨𑌿𑌰𑍍𑌭᳴𑌵𑌤𑌿। -[]
+ --[] --[] --[] -𑌶𑌃 𑌸𑍍𑌤𑍋𑌮𑌃᳴। 𑌏𑌕᳴𑌵𑌿𑍞𑌶-
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[68]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[69]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[70]
+
+Package fontspec Info: Noto Serif Grantha scale = 0.4999981278526845.
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[71]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[72]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[73]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[74]
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[75]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[76]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[77]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[78]
+Overfull \hbox (37.78152pt too wide) in paragraph at lines 3118--3128
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌣𑌾-[]  𑌸𑍍𑌵𑌾𑌹𑌾॑ [] -𑌨𑌾-[]  𑌸𑍍𑌵𑌾𑌹𑍇𑌤𑌿᳴ 𑌸𑌂-[] 
+-𑌪𑍍𑌯𑌮𑌾᳴-[]  𑌆𑌹𑍁᳴𑌤𑍀𑌰𑍍𑌜𑍁𑌹𑍋𑌤𑌿।
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[79]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[80]
+Overfull \hbox (6.39673pt too wide) in paragraph at lines 3203--3213
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌦𑍍𑌰𑌾 𑌯𑌦𑌰𑍍𑌯᳴𑌜𑌾-[]  𑌨 𑌪𑍋𑌷𑌾᳴𑌯 𑌧𑌨𑌾-[] -𑌤𑍀𑌤𑍍
+𑌯𑌾᳴𑌹। 𑌤𑌸𑍍𑌮𑌾॑𑌦𑍍𑌵𑍈𑌶𑍀-
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[81]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[82]
+Missing character: There is no  in font Noto Serif Grantha Regular/OT:script=g
+ran;language=dflt;mapping=tex-text;!
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[83]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[84]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[85]
+Overfull \hbox (22.75032pt too wide) in paragraph at lines 3399--3409
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌮𑍇𑌧𑍇᳴-[] -𑌵𑌾-[] -𑌨𑍍𑌮𑍇𑌧𑌂᳴ 𑌦𑌧𑌾𑌤𑌿। 𑌷𑌟𑍍𑌤𑍍𑌰𑌿𑍞᳴𑌶𑌤𑌂 𑌜
+𑍁𑌹𑍋𑌤𑌿। 𑌷𑌟𑍍𑌤𑍍𑌰𑌿𑍞᳴𑌶𑌦𑌕𑍍𑌷𑌰𑌾
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[86]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[87]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[88]
+Overfull \hbox (12.7351pt too wide) in paragraph at lines 3513--3527
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] --[] --[] -𑌰𑍍𑌤𑍇-[] -𑌵𑍈-[] --[]  𑌸 𑌸𑌮᳴𑌰𑍍𑌧
+𑌯𑌤𑌿। 𑌇𑌤𑍍𑌯᳴𑌜𑌿-[]  𑌇𑌤𑍍𑌯᳴𑌯𑍁𑌧𑍍𑌯-
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[89]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[90]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[91]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[92]
+Overfull \hbox (7.70952pt too wide) in paragraph at lines 3664--3676
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌯-[] -𑌷𑌾𑌽𑌶𑍍𑌵᳴-[] -𑌧𑍇 𑌪𑍍𑌰𑌾𑌯᳴𑌶𑍍𑌚𑌿𑌤𑍍𑌤𑌿𑌃 [] -𑌯𑌤𑍇॑।
+ -[] -𑌷𑍍𑌟𑍍𑌵𑌾 𑌵𑌸𑍀᳴𑌯𑌾𑌨𑍍𑌭𑌵𑌤𑌿॥67॥[] 
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[93]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[94]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[95]
+Overfull \hbox (10.2391pt too wide) in paragraph at lines 3779--3789
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] --[] -𑌤𑍍𑌯𑌾𑌶𑍍𑌚𑌾𑌙𑍍𑌗𑌿᳴𑌰𑌸𑌶𑍍𑌚 𑌸𑍁-[] -𑌰𑍍𑌗𑍇 [] 
+-𑌕𑍇॑𑌽𑌸𑍍𑌪𑌰𑍍𑌧𑌨𑍍𑌤। 𑌤𑍇𑌽𑌙𑍍𑌗𑌿᳴𑌰𑌸
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[96]
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[97]
+Overfull \hbox (7.21992pt too wide) in paragraph at lines 3855--3865
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] --[] --[] -𑌤𑍍𑌯𑍇-[] -𑌵 [] -𑌜𑍍𑌞𑍇𑌨᳴ 𑌯𑌜𑌤𑍇 𑌕𑌾
+-[] -𑌪𑍍𑌰𑍇𑌣᳴। 𑌅𑌪𑍁᳴𑌨𑌰𑍍𑌮𑌾𑌰-
+ []
+
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[98])
+*\vfill
+
+*\hrule
+
+*\footnotesize
+
+*\urlstyle{sf}
+
+*\textsf{%
+
+*This PDF was downloaded from \url{http://stotrasamhita.github.io}.\\[1ex]
+
+*\noindent GitHub: \url{http://stotrasamhita.github.io}~|~\url{http://github.co
+m/stotrasamhita}\\[0.7ex]
+
+*Credits: \url{http://stotrasamhita.github.io/about/}}
+
+*\end{document}
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 0.
+
+Package fontspec Info: Noto Sans scale = 0.5278531197258661.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[99]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 0.
+ (./Achchhidrashvamedha.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 0.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 0.
+
+
+Package rerunfilecheck Warning: File `Achchhidrashvamedha.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Achchhidrashvamedha.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  3C89E91AE0683D61C801CC2BF66CF84B;368.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 0.
  
 Here is how much of TeX's memory you used:
- 16597 strings out of 479819
- 299842 string characters out of 5895845
- 598695 words of memory out of 5000000
- 33526 multiletter control sequences out of 15000+600000
- 532842 words of font info for 43 fonts, out of 8000000 for 9000
+ 16678 strings out of 479819
+ 302033 string characters out of 5895845
+ 623764 words of memory out of 5000000
+ 33567 multiletter control sequences out of 15000+600000
+ 536611 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 51i,3n,126p,277b,385s stack positions out of 5000i,500n,10000p,200000b,80000s
-No pages of output.
+ 64i,12n,135p,1146b,539s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Achchhidrashvamedha.pdf (99 pages).
