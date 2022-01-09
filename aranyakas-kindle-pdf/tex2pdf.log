@@ -1,0 +1,4011 @@
+---------------------------------------------------------------
+File path         : ../aranyakas/aruNaprashnaH.tex
+PDF target        : aruNaprashnaH.pdf
+Rebuilding aruNaprashnaH.pdf...
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+**entering extended mode
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+*(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+*(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo))
+*(./shloka.sty (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty))
+(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(Please type a command or say `\end')
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*No file aruNaprashnaH.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(1)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(1)/m/n' instead on input line 0.
+
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(2)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(2)/m/n' instead on input line 0.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def)
+*(../aranyakas/aruNaprashnaH.tex
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/B' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/BI' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[1]
+Overfull \hbox (8.89513pt too wide) in paragraph at lines 48--56
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌉𑌭𑌯𑌤𑌃 𑌸𑌪𑍍𑌤𑍇॑𑌨𑍍𑌦𑍍𑌰𑌿-[] -𑌣𑌿। [] -𑌲𑍍𑌪𑌿𑌤𑌂᳴ 𑌤𑍍𑌵𑍇-
+[]  𑌦𑌿𑌹𑍍𑌯᳴𑌤𑍇। 𑌶𑍁𑌕𑍍𑌲𑌕𑍃𑌷𑍍𑌣𑍇
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[2]
+Overfull \hbox (12.61998pt too wide) in paragraph at lines 58--63
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌵𑌿𑌕𑍃᳴𑌤𑌾𑌨𑌿 𑌰𑍂-[] -𑌶𑌃। 𑌕𑍋 𑌨𑍁᳴ 𑌮-[]  𑌅𑌮𑌿᳴𑌥𑌿𑌤𑌃। 𑌸-
+[]  𑌸𑌖𑌾᳴𑌯𑌮𑌬𑍍𑌰𑌵𑍀𑌤𑍍।
+
+Overfull \hbox (8.03113pt too wide) in paragraph at lines 70--75
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌮𑍂𑍟𑌶𑍍𑌚᳴ 𑌪-[] -𑌰𑌕𑍍𑌷᳴𑌤𑌃। [] -𑌤𑌾 [] -𑌚𑌃 𑌪𑍍
+𑌰᳴𑌯𑍁-[] -𑌨𑍍𑌤𑍇। 𑌯𑌤𑍍𑌰𑍈𑌤᳴𑌦𑍁-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[3]
+Overfull \hbox (13.38551pt too wide) in paragraph at lines 92--97
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌅𑌪𑌧𑍍𑌵𑌸𑍍𑌤𑍈𑌰𑍍𑌵𑌸𑍍𑌤𑌿𑌵᳴𑌰𑍍𑌣𑍈-[] -𑌵। [] --[] -𑌖𑌾𑌸𑌃᳴ 𑌕
+-[] -𑌰𑍍𑌦𑌿𑌨𑌃। 𑌅𑌕𑍍𑌰𑍁𑌦𑍍𑌧𑌸𑍍𑌯
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[4]
+Overfull \hbox (20.07191pt too wide) in paragraph at lines 111--117
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌧𑌨𑍁᳴𑌰𑌿-[] -𑌜𑍍𑌯𑌮𑍍। [] -𑌭𑍍𑌰𑌵᳴𑌰𑍍𑌣𑍇-[]  𑌚𑌕𑍍𑌷᳴𑌤𑍇। 𑌏
+𑌤𑌦𑍇𑌵 𑌶𑌂𑌯𑍋𑌰𑍍𑌬𑌾𑌰𑍍‌𑌹᳴𑌸𑍍𑌪-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[5]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[6]
+Overfull \hbox (16.04712pt too wide) in paragraph at lines 145--150
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌶𑍀𑌰𑍍‌𑌷᳴𑌣𑍍𑌯𑌾𑌃 [] -𑌣𑌾𑌃। 𑌸𑍂𑌰𑍍𑌯𑌾 𑌇᳴𑌤𑍍𑌯𑌾-[] -𑌰𑍍𑌯𑌾𑌃।
+ 𑌅𑌪𑌶𑍍𑌯𑌮𑌹𑌮𑍇𑌤𑌾𑌨𑍍𑌥𑍍𑌸𑌪𑍍𑌤
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[7]
+Overfull \hbox (12.39432pt too wide) in paragraph at lines 167--172
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌨𑌾𑌨𑌾᳴𑌸𑍂-[] -𑌤𑍍𑌵𑌮𑍍। 𑌅𑌷𑍍𑌟𑍗 𑌤𑍁 𑌵𑍍𑌯𑌵𑌸𑌿᳴𑌤𑌾 [] -𑌤𑌿। 
+𑌸𑍂𑌰𑍍𑌯𑌮𑌣𑍍𑌡𑌲𑌾𑌨𑍍𑌯𑌷𑍍𑌟𑌾᳴𑌤
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[8]
+Overfull \hbox (6.10875pt too wide) in paragraph at lines 186--191
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌏𑌕𑍋᳴ [] -𑌦𑍍𑌧𑌾𑌰᳴𑌯-[] -𑌵𑌃। [] -𑌜𑌤𑍀᳴ 𑌰𑍋-[] -𑌸𑍀 𑌉᳴
+𑌭𑍇। 𑌵𑌾𑌤𑌾𑌦𑍍𑌵𑌿𑌷𑍍𑌣𑍋𑌰𑍍𑌬᳴𑌲-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[9]
+Overfull \hbox (40.84152pt too wide) in paragraph at lines 215--220
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌪𑌶𑍍𑌯᳴𑌕𑍋 [] -𑌵𑌤𑌿। 𑌯𑌥𑍍𑌸𑌰𑍍𑌵𑌂 𑌪𑌰𑌿𑌪𑌶𑍍𑌯𑌤𑍀᳴𑌤𑌿 [] -𑌕𑍍𑌷
+𑍍𑌮𑍍𑌯𑌾𑌤𑍍। 𑌅𑌥𑌾𑌗𑍍𑌨𑍇᳴𑌰𑌷𑍍𑌟𑌪𑍁᳴𑌰𑍁-
+
+Overfull \hbox (14.18233pt too wide) in paragraph at lines 222--227
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌅𑌗𑍍𑌨𑌿𑌶𑍍𑌚 𑌜𑌾𑌤᳴𑌵𑍇-[] -𑌶𑍍𑌚। 𑌸𑌹𑍋𑌜𑌾 𑌅᳴𑌜𑌿-[] -𑌪𑍍𑌰𑌭
+𑍁𑌃। 𑌵𑍈𑌶𑍍𑌵𑌾𑌨𑌰𑍋
+
+Overfull \hbox (71.21349pt too wide) in paragraph at lines 222--227
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌷𑌾𑌃। 𑌨𑍀𑌲𑌾𑌰𑍍𑌚𑌿𑌶𑍍𑌚 𑌪𑍀𑌤𑌕𑌾॑𑌰𑍍𑌚𑌿-[] -𑌤𑌿। 𑌅𑌥 𑌵𑌾𑌯
+𑍋𑌰𑍇𑌕𑌾𑌦𑌶𑌪𑍁𑌰𑍁𑌷𑌸𑍍𑌯𑍈𑌕𑌾-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[10]
+Overfull \hbox (26.88312pt too wide) in paragraph at lines 235--239
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌰𑍍𑌬𑌮𑍍𑌭𑌾᳴𑌰𑌿𑌃। 𑌹-[]  𑌸𑍁𑌹᳴𑌸𑍍𑌤𑌃। 𑌕𑍃𑌶𑌾᳴𑌨𑍁-[] -𑌶𑍍𑌵𑌾𑌵
+᳴𑌸𑍁𑌃। 𑌮𑍂𑌰𑍍𑌧𑌨𑍍𑌵𑌾𑌨𑍍𑌥𑍍𑌸𑍂॑𑌰𑍍𑌯-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[11]
+Overfull \hbox (6.67514pt too wide) in paragraph at lines 271--277
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌹 [] -𑌤𑌿𑌰᳴𑌸𑍍𑌤𑍁। 𑌵𑌾𑌸𑌾॑𑌤𑍍𑌯𑍗 [] -𑌤𑍍𑌰𑍗 𑌜𑌗᳴𑌤𑍋 [
+] -𑌧𑌾𑌨𑍗॑। 𑌦𑍍𑌯𑌾𑌵𑌾᳴𑌭𑍂𑌮𑍀
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[12]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[13]
+Overfull \hbox (9.09193pt too wide) in paragraph at lines 314--319
+[]  \TU/NotoSerifGrantha(1)/b/n/14.4 𑌶𑌙𑍍𑌕𑍃᳴𑌤𑍋𑌽𑌵𑌸𑌨𑍍। 𑌅𑌥᳴ 𑌸𑌵𑌿-[]  𑌶𑍍𑌯𑌾𑌵𑌾-[] -𑌸𑍍𑌯𑌾
+𑌽𑌵𑌰𑍍𑌤𑌿᳴𑌕𑌾𑌮𑌸𑍍𑌯।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[14]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[15]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[16]
+Overfull \hbox (7.1647pt too wide) in paragraph at lines 376--381
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌶𑍍𑌵𑍇𑌤᳴𑌸𑌿𑌕-[] -𑌕𑌃। [] --[] --[] -𑌰𑍋 𑌵𑌿᳴-[] -𑌵𑌰𑍍
+𑌣𑍈𑌃॑। 𑌨𑌿-[] -𑌸𑍍𑌤𑍇𑌽𑌨𑍁𑌚᳴𑌰𑌾-
+
+Overfull \hbox (6.19275pt too wide) in paragraph at lines 376--381
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌣𑍍𑌯𑍋𑌮𑍍। 𑌇𑌨𑍍𑌦𑍍𑌰𑌾𑌽𑌽𑌗𑌚𑍍𑌛 𑌹𑌰𑌿𑌵 𑌆𑌗𑌚𑍍𑌛 𑌮𑍇᳴𑌧𑌾-[] -𑌥𑍇𑌃
+। 𑌮𑍇𑌷 𑌵𑍃𑌷𑌣𑌶𑍍𑌵᳴𑌸𑍍𑌯
+
+Overfull \hbox (19.51033pt too wide) in paragraph at lines 390--398
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌕𑌾𑌲𑌾𑌵𑌯𑌵𑌾𑌨𑌾𑌮𑌿𑌤𑌃᳴ 𑌪𑍍𑌰-[] -𑌚𑍍𑌯𑌾। 𑌵𑌾𑌸𑌾𑌤𑍍𑌯𑌾᳴ 𑌇-[] -
+𑌶𑍍𑌵𑌿𑌨𑍋𑌃। 𑌕𑍋𑌽𑌨𑍍𑌤𑌰𑌿𑌕𑍍𑌷𑍇
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[17]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[18]
+Overfull \hbox (32.46794pt too wide) in paragraph at lines 434--439
+\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌸𑍗 𑌯𑍋᳴𑌽-[] -𑌕𑍍𑌷𑍀𑌯᳴𑌤𑌿। 𑌸 𑌸𑌰𑍍𑌵𑍇᳴𑌷𑌾𑌂 [] -𑌤𑌾𑌨
+𑌾𑌂॑ [] -𑌣𑍈𑌰𑌪᳴𑌕𑍍𑌷𑍀𑌯𑌤𑌿।
+
+Overfull \hbox (9.49512pt too wide) in paragraph at lines 434--439
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌮𑍂-[]  𑌨𑌕𑍍𑌷᳴𑌤𑍍𑌰𑌾𑌣𑌿। 𑌸𑌰𑍍𑌵𑍇᳴𑌷𑌾𑌂 [] -𑌤𑌾𑌨𑌾𑌂॑ [] -𑌣
+𑍈𑌰𑌪᳴𑌪𑍍𑌰𑌸𑌰𑍍𑌪-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[19]
+Overfull \hbox (16.08311pt too wide) in paragraph at lines 448--454
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌮𑍋𑌥𑍍𑌸𑍃᳴𑌪। -[] -𑌦𑌮𑌹𑌃᳴। 𑌸𑌰𑍍𑌵𑍇᳴𑌷𑌾𑌂 [] -𑌤𑌾𑌨𑌾𑌂॑ [] 
+-𑌣𑍈𑌰𑌪᳴𑌪𑍍𑌰𑌸𑌰𑍍𑌪-
+
+Overfull \hbox (13.12871pt too wide) in paragraph at lines 456--467
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌸𑍍𑌥𑌾𑌨𑍇 𑌸𑍍𑌵𑌤𑍇𑌜᳴𑌸𑌾 [] -𑌨𑌿। 𑌋𑌭𑍂𑌣𑌾𑌮𑌾𑌦𑌿𑌤𑍍𑌯𑌾𑌨𑌾𑍟 𑌸𑍍𑌥𑌾
+𑌨𑍇 𑌸𑍍𑌵𑌤𑍇𑌜᳴𑌸𑌾
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[20]
+Overfull \hbox (63.0535pt too wide) in paragraph at lines 476--486
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌵𑍍𑌯𑌵𑌦𑌾𑌤𑌾𑌨𑌾𑍞 𑌰𑍁𑌦𑍍𑌰𑌾𑌣𑌾𑍟 𑌸𑍍𑌥𑌾𑌨𑍇 𑌸𑍍𑌵𑌤𑍇𑌜᳴𑌸𑌾 [] -𑌨𑌿।
+ 𑌵𑌾𑌸𑍁𑌕𑌿𑌵𑍈𑌦𑍍𑌯𑍁𑌤𑌾𑌨𑌾𑍞
+
+Overfull \hbox (8.11034pt too wide) in paragraph at lines 488--502
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌰𑍁𑌦𑍍𑌰𑌾𑌣𑍀𑌨𑌾𑍟 𑌸𑍍𑌥𑌾𑌨𑍇 𑌸𑍍𑌵𑌤𑍇𑌜᳴𑌸𑌾 [] -𑌨𑌿। 𑌊𑌰𑍍𑌧𑍍𑌵𑌾𑌨𑌾
+𑍞 𑌰𑍁𑌦𑍍𑌰𑌾𑌣𑍀𑌨𑌾𑍟
+
+Overfull \hbox (10.55112pt too wide) in paragraph at lines 488--502
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌸𑍍𑌵𑌤𑍇𑌜᳴𑌸𑌾 [] -𑌨𑌿। 𑌵𑍈𑌦𑍍𑌯𑍁𑌤𑍀𑌨𑌾𑍞 𑌰𑍁𑌦𑍍𑌰𑌾𑌣𑍀𑌨𑌾𑍟 𑌸𑍍𑌥𑌾
+𑌨𑍇 𑌸𑍍𑌵𑌤𑍇𑌜᳴𑌸𑌾
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[21]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[22]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[23]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[24]
+Overfull \hbox (16.92075pt too wide) in paragraph at lines 586--591
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌨𑌕𑍍𑌷᳴𑌤𑍍𑌰𑌾-[]  𑌵𑌾 [] -𑌪𑌾-[] -𑌯𑌤᳴𑌨𑌮𑍍। -[] -𑌯𑌤᳴𑌨𑌵
+𑌾𑌨𑍍‌ 𑌭𑌵𑌤𑌿। 𑌯𑍋 𑌨𑌕𑍍𑌷᳴𑌤𑍍𑌰𑌾𑌣𑌾-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[25]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[26]
+Overfull \hbox (14.18471pt too wide) in paragraph at lines 634--639
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌮𑌾𑌁-[] -𑌕𑌾-[] -𑌤𑍍𑌯𑌕𑍍𑌷𑍇᳴𑌣। 𑌕-[] -𑌗𑍍𑌨𑌿𑌂 𑌚
+𑌿᳴𑌨𑍁𑌤𑍇। -[] -𑌮𑌮𑌾᳴𑌰𑍁𑌣𑌕𑍇𑌤𑍁𑌕-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[27]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[28]
+Overfull \hbox (10.37834pt too wide) in paragraph at lines 681--686
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌪𑌰𑌾᳴𑌭𑌵𑌨𑍍। -[] -𑌪𑍍𑌰𑍁-[]  𑌹𑌿 𑌤𑍇 𑌸𑌮᳴𑌭𑌵𑌨𑍍। 𑌤-[] -𑌷
+𑌾𑌽𑌭𑍍𑌯𑌨𑍂॑𑌕𑍍𑌤𑌾॥96॥ 
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[29]
+Overfull \hbox (41.40312pt too wide) in paragraph at lines 709--714
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌪𑍍𑌰𑌤𑌿᳴𑌷𑍍𑌠𑌿-[]  𑌵𑍈 𑌸𑍍𑌥𑌾᳴-[] -𑌰𑌾𑌃। -[] -𑌶𑍍𑌚𑌾-[] 
+-𑌵 𑌪𑍍𑌰𑌤𑌿᳴𑌤𑌿𑌷𑍍𑌠𑌤𑌿। 𑌵𑌹᳴𑌨𑍍𑌤𑍀𑌰𑍍𑌗𑍃𑌹𑍍𑌣𑌾𑌤𑌿॥100॥ 
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[30]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[31]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[32]
+Overfull \hbox (11.05515pt too wide) in paragraph at lines 788--793
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌵𑍃𑌷𑍍𑌟𑌿᳴𑌕𑌾𑌮𑌶𑍍𑌚𑌿𑌨𑍍𑌵𑍀𑌤। 𑌆-[]  𑌵𑍈 𑌵𑍃𑌷𑍍𑌟𑌿𑌃᳴। -[] 
+-𑌰𑍍𑌜-[]  𑌵𑌰𑍍‌𑌷𑍁᳴𑌕𑍋
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[33]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[34]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[35]
+Overfull \hbox (12.07271pt too wide) in paragraph at lines 882--887
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌦𑍍𑌭𑍍𑌯𑌸𑍍𑌤𑌿-[] -𑌽𑌧𑌾𑌽𑌜𑌾᳴𑌯𑌤। 𑌤𑌵᳴ 𑌵𑍈𑌶𑍍𑌰-[] -
+𑌣𑌃 𑌸᳴𑌦𑌾। 𑌤𑌿𑌰𑍋᳴𑌽𑌧𑍇𑌹𑌿
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[36]
+Overfull \hbox (10.26796pt too wide) in paragraph at lines 911--916
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌸𑌰𑍍𑌵𑌾𑌰𑍍𑌥𑌾 𑌨᳴ 𑌸𑌿-[] -𑌨𑍍𑌤𑍇। 𑌯𑌸𑍍𑌤𑍇᳴ [] -𑌘𑌾𑌤𑍁᳴𑌕𑍋 [
+] -𑌤𑌾। 𑌮𑌮𑌾𑌨𑍍𑌤𑌰𑍍‌𑌹𑍃᳴𑌦-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[37]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[38])
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[39] (./aruNaprashnaH.aux)
+
+Package rerunfilecheck Warning: File `aruNaprashnaH.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+(see the transcript file for additional information)
+Output written on aruNaprashnaH.pdf (39 pages).
+Transcript written on aruNaprashnaH.log.
+---------------------------------------------------------------
+File path         : ../aranyakas/Chittissruk.tex
+PDF target        : Chittissruk.pdf
+Rebuilding Chittissruk.pdf...
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+**entering extended mode
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+*(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+*(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo))
+*(./shloka.sty (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty))
+(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(Please type a command or say `\end')
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*No file Chittissruk.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(1)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(1)/m/n' instead on input line 0.
+
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(2)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(2)/m/n' instead on input line 0.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def)
+*(../aranyakas/Chittissruk.tex
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/B' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/BI' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[1]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[2]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[3]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[4]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[5]
+Overfull \hbox (9.92474pt too wide) in paragraph at lines 278--288
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌨𑌿𑌹𑌿᳴-[]  𑌗𑍁𑌹𑌾᳴𑌸𑍁। -[] -𑌮𑍃𑌤𑍇᳴𑌨 𑌕𑍢॒𑌪𑍍𑌤𑌂 [] -𑌜𑍍𑌞
+-[] -𑌤𑌮𑍍। 𑌚𑌤𑍁᳴𑌰𑍍[]𑌹𑍋𑌤𑍃𑌣𑌾-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[6]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[7]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[8]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[9]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[10]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[11]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[12]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[13]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[14]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[15] (/usr/share/texlive/texmf-dist/tex/latex/bbding/Uding.fd)
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[16])
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[17] (./Chittissruk.aux)
+
+Package rerunfilecheck Warning: File `Chittissruk.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+(see the transcript file for additional information)
+Output written on Chittissruk.pdf (17 pages).
+Transcript written on Chittissruk.log.
+---------------------------------------------------------------
+File path         : ../aranyakas/DevaVai.tex
+PDF target        : DevaVai.pdf
+Rebuilding DevaVai.pdf...
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+**entering extended mode
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+*(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+*(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo))
+*(./shloka.sty (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty))
+(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(Please type a command or say `\end')
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*No file DevaVai.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(1)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(1)/m/n' instead on input line 0.
+
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(2)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(2)/m/n' instead on input line 0.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def)
+*(../aranyakas/DevaVai.tex
+Overfull \hbox (14.16556pt too wide) in paragraph at lines 7--17
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌵𑌾 𑌵𑍈 [] -𑌤𑍍𑌰𑌮𑌾᳴𑌸𑌤। 𑌋𑌦𑍍𑌧𑌿᳴𑌪𑌰𑌿𑌮𑌿-[]  𑌯𑌶᳴
+𑌸𑍍𑌕𑌾𑌮𑌾𑌃। 𑌤𑍇॑𑌽𑌬𑍍𑌰𑍁𑌵𑌨𑍍।
+
+Overfull \hbox (28.98076pt too wide) in paragraph at lines 19--29
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌤𑍇𑌷𑌾𑌂॑ [] -𑌖𑌂 𑌵𑍈॑-[] -𑌵𑌂 𑌯𑌶᳴ 𑌆𑌰𑍍𑌚𑍍𑌛𑌤𑍍। 𑌤𑌨𑍍𑌨𑍍
+𑌯᳴𑌕𑌾𑌮𑌯𑌤। 𑌤𑍇𑌨𑌾𑌪𑌾॑𑌕𑍍𑌰𑌾𑌮𑌤𑍍।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/B' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/BI' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[1]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[2]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[3]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[4]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[5]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[6]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[7]
+Overfull \hbox (11.00952pt too wide) in paragraph at lines 348--358
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌪𑍍𑌰𑌤𑌿᳴𑌷𑍍𑌠𑌿𑌤𑍍𑌯𑍈। -[] -𑌦-[] -𑌹-[] -𑌮𑍁𑌮𑌾᳴𑌮𑍁𑌷𑍍𑌯𑌾-[
+] -𑌣𑌂 [] -𑌶𑌾 [] -𑌶𑍁𑌭𑌿᳴𑌰𑍍𑌬𑍍𑌰𑌹𑍍𑌮𑌵-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[8]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[9]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[10]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[11]
+Overfull \hbox (12.97035pt too wide) in paragraph at lines 513--523
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌅-[]  𑌰𑌕𑍍𑌷᳴-[] -𑌮𑌪᳴𑌹𑌤𑍍𑌯𑍈। 𑌤𑍍𑌰𑌿𑌃 𑌪𑍁-[]  𑌪𑌰𑌿᳴𑌯
+𑌨𑍍𑌤𑌿। 𑌷𑌟𑍍𑌥𑍍𑌸𑌮𑍍𑌪᳴𑌦𑍍𑌯𑌨𑍍𑌤𑍇।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[12]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[13]
+Overfull \hbox (25.89671pt too wide) in paragraph at lines 564--583
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌵𑍈𑌷 𑌮᳴-[] -𑌷𑍍𑌯𑍇᳴𑌷𑍁। 𑌸𑌮𑍍𑌰𑌾॑𑌡𑍍𑌘𑌰𑍍𑌮 𑌰𑍁-[] -𑌤𑌸
+𑍍𑌤𑍍𑌵𑌂 [] -𑌵𑍇𑌷𑍍𑌵𑌾𑌯𑍁᳴𑌷𑍍𑌮𑌾𑍟𑌸𑍍𑌤𑍇-
+
+Overfull \hbox (37.9351pt too wide) in paragraph at lines 564--583
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌸𑍍𑌵𑍀 𑌬𑍍𑌰᳴𑌹𑍍𑌮𑌵-[] -𑌸𑍍𑌯᳴𑌸𑍀𑌤𑍍𑌯𑌾᳴𑌹। -[] --[] -
+𑌤𑍋 𑌹𑍍𑌯𑍇᳴𑌷 [] -𑌵𑍇𑌷𑍍𑌵𑌾𑌯𑍁᳴𑌷𑍍𑌮𑌾𑍟𑌸𑍍𑌤𑍇-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[14]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[15]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[16]
+Overfull \hbox (6.63432pt too wide) in paragraph at lines 691--701
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌨𑌾𑌭𑌿᳴𑌰𑍍𑌦-[] -𑌮𑍀। -[] -𑌣𑌾-[] -𑌵 𑌯𑌜᳴𑌮𑌾𑌨𑍇 𑌦𑌧𑌾𑌤𑌿
+। 𑌅-[]  𑌦𑌶𑌾॑𑌕𑍍𑌷𑌰𑌾
+
+Overfull \hbox (23.93112pt too wide) in paragraph at lines 691--701
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌶𑌿𑌰𑍋॑𑌽𑌚𑍍𑌛𑌿𑌦𑍍𑌯𑌤। 𑌤-[] -𑌵𑌾 𑌹𑍋𑌤𑍍𑌰𑌾᳴-[]  𑌪𑍍𑌰𑌤𑍍𑌯᳴𑌦𑌧
+𑍁𑌃। -[] -𑌤𑍍𑌵𑌿𑌜𑍋𑌽𑌵𑍇॑𑌕𑍍𑌷𑌨𑍍𑌤𑍇।
+
+Overfull \hbox (16.16472pt too wide) in paragraph at lines 691--701
+\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌤𑌾 𑌵𑍈 𑌹𑍋𑌤𑍍𑌰𑌾𑌃॑। 𑌹𑍋𑌤𑍍𑌰𑌾᳴𑌭𑌿-[] -𑌵 [] -𑌜𑍍𑌞-[
+]  𑌶𑌿-[]  𑌪𑍍𑌰𑌤𑌿᳴𑌦𑌧𑌾𑌤𑌿॥55॥ 
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[17]
+Overfull \hbox (17.30237pt too wide) in paragraph at lines 732--742
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌵𑌸𑍍𑌯᳴ 𑌤𑍍𑌵𑌾 𑌸-[] -𑌤𑍁𑌃 𑌪𑍍𑌰᳴-[] -𑌵 𑌇𑌤𑌿᳴ 𑌰-
+[] -𑌨𑌾𑌮𑌾𑌦᳴-[]  𑌪𑍍𑌰𑌸𑍂॑𑌤𑍍𑌯𑍈।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[18]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[19]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[20]
+Overfull \hbox (19.12154pt too wide) in paragraph at lines 840--850
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌵𑍈𑌨𑌂᳴ 𑌜𑍁𑌹𑍋𑌤𑌿। 𑌵𑌰𑍁᳴𑌣𑌾𑌯 𑌤𑍍𑌵𑌾𑌽𑌽-[] -𑌤𑍍𑌯𑌵᳴-[] 
+ 𑌸𑍍𑌵𑌾𑌹𑍇𑌤𑍍𑌯𑌾᳴𑌹॥67॥ 
+
+Overfull \hbox (8.92154pt too wide) in paragraph at lines 852--862
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌫𑍍𑌸𑍁 𑌵𑍈 𑌵𑌰𑍁᳴𑌣 𑌆-[] -𑌤𑍍𑌯𑌵𑌾𑌨𑍍᳴। 𑌤𑌸𑍍𑌮𑌾᳴ []
+ -𑌵𑍈𑌨𑌂᳴ 𑌜𑍁𑌹𑍋𑌤𑌿।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[21]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[22]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[23]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[24]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[25]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[26]
+Overfull \hbox (9.50952pt too wide) in paragraph at lines 1080--1090
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌜𑍍𑌞𑍞 𑌰𑌕𑍍𑌷𑌾𑍞᳴𑌸𑌿 𑌜𑌿𑌘𑌾𑍞𑌸𑌨𑍍𑌤𑌿। 𑌸𑌾𑌮𑍍𑌨𑌾॑ 𑌪𑍍𑌰-
+[] -𑌤𑌾𑌽𑌨𑍍𑌵𑌵𑍈᳴𑌤𑌿।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[27]
+Overfull \hbox (9.98714pt too wide) in paragraph at lines 1140--1150
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌯𑍋𑌨𑌿𑌂᳴ 𑌗𑌮𑌯𑌤𑌿। 𑌨𑌮᳴𑌸𑍍𑌤𑍇 𑌅-[]  𑌮𑌾 𑌮𑌾᳴ 𑌹𑌿𑍞-[] -𑌰𑌿-
+[] -𑌹𑌾𑌹𑌿𑍞᳴𑌸𑌾𑌯𑍈।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[28]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[29]
+Overfull \hbox (26.74153pt too wide) in paragraph at lines 1185--1195
+[]  \TU/NotoSerifGrantha(1)/b/n/14.4 𑌨 𑌵𑍍𑌯᳴𑌭𑌵𑌤𑍍। 𑌤-[] -𑌗𑍍𑌨𑌿𑌰𑍍𑌵𑍍𑌯᳴𑌕𑌰𑍋𑌤𑍍। 𑌤𑌾-[]  
+𑌶𑍁𑌕𑍍𑌰𑌿᳴𑌯𑌾-[]  𑌸𑌾𑌮𑌾॑𑌨𑍍𑌯𑌭𑌵𑌨𑍍।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[30]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[31]
+Overfull \hbox (19.27512pt too wide) in paragraph at lines 1282--1292
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌰𑍍𑌗𑍍𑌯𑍇᳴-[] -𑌵𑌾-[]  𑌵𑍍𑌯᳴𑌭𑌵𑌨𑍍। -[] --[] -𑌰𑍍𑌗𑍍𑌯𑍇᳴
+𑌣𑌾𑌽𑌽𑌪𑍍𑌨𑍁𑌵𑌨𑍍। 𑌯𑌚𑍍𑌚᳴𑌤𑍁𑌰𑍍𑌵𑌿𑍞𑌶-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[32]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[33] (/usr/share/texlive/texmf-dist/tex/latex/bbding/Uding.fd))
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[34] (./DevaVai.aux)
+
+Package rerunfilecheck Warning: File `DevaVai.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+(see the transcript file for additional information)
+Output written on DevaVai.pdf (34 pages).
+Transcript written on DevaVai.log.
+---------------------------------------------------------------
+File path         : ../aranyakas/kAThaka.tex
+PDF target        : kAThaka.pdf
+Rebuilding kAThaka.pdf...
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+**entering extended mode
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+*(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+*(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo))
+*(./shloka.sty (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty))
+(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(Please type a command or say `\end')
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*No file kAThaka.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(1)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(1)/m/n' instead on input line 0.
+
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(2)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(2)/m/n' instead on input line 0.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def)
+*(../aranyakas/kAThaka.tex
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/B' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/BI' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[1]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[2]
+Overfull \hbox (14.78952pt too wide) in paragraph at lines 72--92
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌤𑍍𑌵-[] -𑌵 𑌤𑍍𑌵𑌾𑌂 𑌵𑍇॑-[]  𑌯𑍋᳴𑌽-[]  𑌸𑍋𑌽𑌸𑌿᳴। 𑌤𑍍𑌵
+-[] -𑌵 𑌤𑍍𑌵𑌾𑌮᳴𑌚𑍈𑌷𑍀𑌃।
+
+Overfull \hbox (28.74309pt too wide) in paragraph at lines 72--92
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌤𑌶𑍍𑌚𑌾-[]  𑌸𑌞𑍍𑌚𑌿᳴𑌤𑌶𑍍𑌚𑌾𑌸𑍍𑌯𑌗𑍍𑌨𑍇। [] -𑌤𑌾-[] --
+[] -𑌶𑍍𑌚𑌾-[]  𑌭𑍂𑌯𑌾𑍟᳴𑌶𑍍𑌚𑌾𑌸𑍍𑌯𑌗𑍍𑌨𑍇।
+
+Overfull \hbox (11.19432pt too wide) in paragraph at lines 72--92
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌵𑌿𑌶𑍍𑌵𑍇᳴ 𑌤𑍇 [] -𑌵𑌾𑌶𑍍𑌚𑌿-[] -𑌮𑌾𑌪𑍂᳴𑌰𑌯𑌨𑍍𑌤𑍁। [] -𑌤𑌶𑍍
+𑌚𑌾-[]  𑌸𑌞𑍍𑌚𑌿᳴𑌤𑌶𑍍𑌚𑌾𑌸𑍍𑌯𑌗𑍍𑌨𑍇।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[3]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[4]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[5]
+Overfull \hbox (18.88153pt too wide) in paragraph at lines 194--204
+[][] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌨𑍍𑌧𑍋 𑌜𑌾𑌗𑍃᳴𑌵𑌿𑌃 𑌪𑍍𑌰𑌾𑌣। 𑌅-[] -𑌵𑍇𑌹𑌿᳴। [] --[
+] -𑌰 𑌆॑𑌕𑍍𑌰𑌨𑍍𑌦𑌯𑌿𑌤𑌰𑌪𑌾𑌨।
+
+Overfull \hbox (6.47113pt too wide) in paragraph at lines 205--215
+[][] \TU/NotoSerifGrantha(1)/b/n/14.4 --[] -𑌸𑍍𑌤𑌃 𑌸𑍁᳴-[] -𑌸𑌾𑌃। [] -𑌷𑍋 𑌨𑌾𑌮𑌾॑-[] -
+𑌮𑍃-[]  𑌮𑌰𑍍𑌤𑍍𑌯𑍇᳴𑌷𑍁।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[6]
+Overfull \hbox (11.00476pt too wide) in paragraph at lines 292--302
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌤𑍍𑌵𑍋𑌪᳴𑌸𑍍𑌪𑍃𑌶𑍇𑌤𑍍। 𑌵𑍃𑌷𑍍𑌟𑌿᳴𑌰-[]  𑌵𑍃𑌶𑍍𑌚᳴ 𑌮𑍇 [] -𑌪𑍍𑌮
+𑌾-[] -𑌮𑌿𑌤𑌿᳴। [] -𑌕𑍍𑌷𑍍𑌯𑌮𑌾᳴𑌣𑍋
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[7]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[8]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[9]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[10]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[11]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[12]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[13]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[14]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[15]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[16]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[17]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[18]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[19]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[20]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[21]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[22]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[23]
+Overfull \hbox (18.88153pt too wide) in paragraph at lines 912--922
+[][] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌨𑍍𑌧𑍋 𑌜𑌾𑌗𑍃᳴𑌵𑌿𑌃 𑌪𑍍𑌰𑌾𑌣। 𑌅-[] -𑌵𑍇𑌹𑌿᳴। [] --[
+] -𑌰 𑌆॑𑌕𑍍𑌰𑌨𑍍𑌦𑌯𑌿𑌤𑌰𑌪𑌾𑌨।
+
+Overfull \hbox (28.74309pt too wide) in paragraph at lines 923--933
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌤𑌶𑍍𑌚𑌾-[]  𑌸𑌞𑍍𑌚𑌿᳴𑌤𑌶𑍍𑌚𑌾𑌸𑍍𑌯𑌗𑍍𑌨𑍇। [] -𑌤𑌾-[] --
+[] -𑌶𑍍𑌚𑌾-[]  𑌭𑍂𑌯𑌾᳴𑍟𑌶𑍍𑌚𑌾𑌸𑍍𑌯𑌗𑍍𑌨𑍇।
+
+Overfull \hbox (6.74956pt too wide) in paragraph at lines 934--944
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌤𑌯𑌾᳴ [] -𑌵𑌤᳴𑌯𑌾𑌽𑌙𑍍𑌗𑌿-[] -𑌸𑍍𑌵-[] -𑌵𑌾 𑌸𑍀᳴𑌦। 𑌤𑌾 
+𑌅᳴-[]  𑌸𑍂𑌦᳴𑌦𑍋𑌹𑌸𑌃।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[24]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[25]
+Overfull \hbox (9.73753pt too wide) in paragraph at lines 1001--1011
+[][] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌵-[] -𑌵 𑌸 𑌤𑍇𑌜᳴-[]  𑌯𑌶᳴𑌸𑌾। [] -𑌸𑍍𑌮𑌿𑍟𑌶𑍍𑌚᳴ 
+[] -𑌕𑍇᳴𑌽𑌮𑍁𑌷𑍍𑌮𑌿᳴𑍟𑌶𑍍𑌚
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[26]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[27]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[28]
+Overfull \hbox (15.63672pt too wide) in paragraph at lines 1134--1144
+[][] \TU/NotoSerifGrantha(1)/b/n/14.4 --[] --[] -𑌪𑍍𑌤-[] -𑌵𑍋𑌪᳴𑌦𑌧𑍇। 𑌤-[]  𑌵𑍈 𑌸 []
+ -𑌤𑌾𑌮𑍃𑌦𑍍𑌧𑌿᳴𑌮𑌾𑌰𑍍𑌧𑍍𑌨𑍋𑌤𑍍।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[29]
+Overfull \hbox (25.9856pt too wide) in paragraph at lines 1156--1166
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌸𑍍𑌰 𑌉᳴𑌤𑍍𑌤-[] -𑌤𑌃। 𑌏-[]  𑌮𑌧𑍍𑌯𑍇॑। 𑌤-[]  𑌵𑍈 𑌸 𑌪𑍍𑌰
+ 𑌯-[]  𑌜𑍍𑌯𑍈𑌷𑍍𑌠𑍍𑌯᳴𑌮𑌾𑌪𑍍𑌨𑍋𑌤𑍍।
+
+Overfull \hbox (45.5791pt too wide) in paragraph at lines 1167--1177
+[][] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌵𑍃-[] -𑌜𑌨᳴𑌨𑌮𑍍। [] -𑌪-[]  𑌯𑍋𑌨𑌿᳴𑌰𑍍𑌮-[] -𑌮𑌾
+। 𑌪𑍍𑌰 𑌯-[]  𑌜𑍍𑌯𑍈𑌷𑍍𑌠𑍍𑌯᳴𑌮𑌾𑌪𑍍𑌨𑍋𑌤𑌿।
+
+Overfull \hbox (17.94551pt too wide) in paragraph at lines 1189--1199
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌰𑍍𑌧𑌿-[] --𑌦𑍁𑌥𑍍𑌸᳴𑌰𑍍𑌪𑍇𑌤𑍍। 𑌯𑍇𑌯𑌂 𑌪𑍍𑌰𑌾-[] -𑌦𑍍𑌯𑌶᳴𑌸𑍍𑌵
+𑌤𑍀। 𑌸𑌾 []  𑌪𑍍𑌰𑍋𑌰𑍍𑌣𑍋᳴𑌤𑍁।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[30]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[31]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[32]
+Overfull \hbox (8.96957pt too wide) in paragraph at lines 1281--1293
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌤𑌦𑌿𑌷𑍍𑌟𑍀᳴𑌨𑌾𑌮𑌿-[] --𑌤𑍍𑌵𑌮𑍍। 𑌏𑌷𑍍𑌟᳴𑌯𑍋 []  𑌵𑍈 𑌨𑌾𑌮᳴। 
+𑌤𑌾 𑌇𑌷𑍍𑌟᳴-[]  𑌇𑌤𑍍𑌯𑌾𑌚᳴𑌕𑍍𑌷𑌤𑍇
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[33]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[34]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[35]
+Overfull \hbox (29.84952pt too wide) in paragraph at lines 1414--1433
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌤𑌮𑌨𑍁᳴𑌵𑌿𑌤𑍍𑌤𑌿𑌰𑌬𑍍𑌰𑌵𑍀𑌤𑍍। 𑌪𑍍𑌰𑌜𑌾᳴𑌪𑌤𑍇 [] -𑌰𑍍𑌗𑌂 𑌵𑍈 [
+] -𑌕𑌮𑌨𑍁᳴𑌵𑌿𑌵𑌿𑌥𑍍𑌸𑌸𑌿।
+
+Overfull \hbox (39.50955pt too wide) in paragraph at lines 1414--1433
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌹-[]  𑌵𑌾 𑌅𑌨𑍁᳴𑌵𑌿𑌤𑍍𑌤𑌿𑌰𑌸𑍍𑌮𑌿। 𑌮𑌾𑌂 𑌨𑍁 𑌯᳴𑌜𑌸𑍍𑌵। 𑌅
+𑌥᳴ 𑌤𑍇 [] -𑌤𑍍𑌯𑌾𑌽𑌨𑍁᳴𑌵𑌿𑌤𑍍𑌤𑌿𑌰𑍍𑌭𑌵𑌿𑌷𑍍𑌯𑌤𑌿।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[36]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[37]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[38]
+Overfull \hbox (8.96957pt too wide) in paragraph at lines 1499--1511
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌤𑌦𑌿𑌷𑍍𑌟𑍀᳴𑌨𑌾𑌮𑌿-[] -𑌤𑍍𑌵𑌮𑍍। 𑌏𑌷𑍍𑌟᳴𑌯𑍋 []  𑌵𑍈 𑌨𑌾𑌮᳴। 𑌤
+𑌾 𑌇𑌷𑍍𑌟᳴-[]  𑌇𑌤𑍍𑌯𑌾𑌚᳴𑌕𑍍𑌷𑌤𑍇
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[39]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[40]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[41]
+Overfull \hbox (21.90309pt too wide) in paragraph at lines 1638--1648
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌹𑌾𑌹᳴-[] -𑌰𑍍‌॒𑌹𑍋𑌤𑌾᳴ [] -𑌪𑍍𑌤𑌹𑍋᳴𑌤𑍄𑌣𑌾𑌮𑍍। [] -𑌤
+𑌦𑍍𑌵𑍈 𑌚𑌤𑍁᳴𑌰𑍍‌𑌹𑍋𑌤𑍃𑌣𑌾𑌂
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[42]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[43]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[44]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[45]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[46]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[47]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[48]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[49]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[50]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[51])
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[52] (./kAThaka.aux)
+
+Package rerunfilecheck Warning: File `kAThaka.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+(see the transcript file for additional information)
+Output written on kAThaka.pdf (52 pages).
+Transcript written on kAThaka.log.
+---------------------------------------------------------------
+File path         : ../aranyakas/Mahanarayanopanishat.tex
+PDF target        : Mahanarayanopanishat.pdf
+Rebuilding Mahanarayanopanishat.pdf...
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+**entering extended mode
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+*(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+*(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo))
+*(./shloka.sty (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty))
+(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(Please type a command or say `\end')
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*No file Mahanarayanopanishat.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(1)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(1)/m/n' instead on input line 0.
+
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(2)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(2)/m/n' instead on input line 0.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def)
+*(../aranyakas/Mahanarayanopanishat.tex
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/B' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/BI' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[1]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[2]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[3]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[4]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[5]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[6]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[7]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[8]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[9]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[10]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[11]
+Overfull \hbox (13.2415pt too wide) in paragraph at lines 267--277
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌣𑍋𑌰𑌣𑍀᳴𑌯𑌾𑌨𑍍𑌮-[] -𑌤𑍋 𑌮𑌹𑍀᳴𑌯𑌾-[] -𑌤𑍍𑌮𑌾 𑌗𑍁𑌹𑌾
+᳴-[]  𑌨𑌿𑌹𑌿᳴𑌤𑍋𑌽𑌸𑍍𑌯
+
+Overfull \hbox (29.53032pt too wide) in paragraph at lines 279--289
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] --[] -𑌸𑌃 𑌶𑍁᳴-[] -𑌷𑌦𑍍𑌵𑌸𑍁᳴𑌰𑌨𑍍𑌤𑌰𑌿-[] -𑌸𑌦𑍍𑌧𑍋
+𑌤𑌾᳴ 𑌵𑍇-[] -𑌷𑌦𑌤𑌿᳴𑌥𑌿𑌰𑍍𑌦𑍁𑌰𑍋-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[12]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[13]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[14]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[15]
+Overfull \hbox (9.15195pt too wide) in paragraph at lines 348--372
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌊𑌰𑍍𑌧𑍍𑌵𑌲𑌿𑌙𑍍𑌗𑌾-[]  𑌨𑌮𑌃। 𑌹𑌿𑌰𑌣𑍍𑌯𑌾-[]  𑌨𑌮𑌃। 𑌹𑌿𑌰𑌣𑍍𑌯𑌲
+𑌿𑌙𑍍𑌗𑌾-[]  𑌨𑌮𑌃। 𑌸𑍁𑌵𑌰𑍍𑌣𑌾-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[16]
+Overfull \hbox (6.3919pt too wide) in paragraph at lines 383--386
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌸𑌰𑍍𑌵𑍇॑𑌭𑍍𑌯𑌃 𑌸-[] -𑌶𑌰𑍍𑌵𑍇॑-[]  𑌨𑌮᳴𑌸𑍍𑌤𑍇 𑌅𑌸𑍍𑌤𑍁 [] -
+𑌦𑍍𑌰𑌰𑍂᳴𑌪𑍇𑌭𑍍𑌯𑌃॥36॥
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[17]
+Overfull \hbox (10.43353pt too wide) in paragraph at lines 397--399
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌨𑌮𑍋 𑌹𑌿𑌰𑌣𑍍𑌯𑌬𑌾𑌹𑌵𑍇 𑌹𑌿𑌰𑌣𑍍𑌯𑌵𑌰𑍍𑌣𑌾𑌯 𑌹𑌿𑌰𑌣𑍍𑌯𑌰𑍂𑌪𑌾𑌯
+
+Overfull \hbox (28.77911pt too wide) in paragraph at lines 419--421
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌯-[]  𑌵𑍈𑌕᳴𑌙𑍍𑌕𑌤𑍍𑌯𑌗𑍍𑌨𑌿𑌹𑍋-[] -𑌹𑌵᳴𑌣𑍀 𑌭𑌵-[]  𑌪𑍍𑌰-
+[] -𑌵𑌾𑌸𑍍𑌯𑌾𑌹𑍁᳴𑌤𑌯-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[18]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[19]
+Overfull \hbox (20.35031pt too wide) in paragraph at lines 465--475
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌸𑍂𑌰𑍍𑌯𑌶𑍍𑌚 𑌮𑌾 𑌮𑌨𑍍𑌯𑍁𑌶𑍍𑌚 𑌮𑌨𑍍𑌯𑍁𑌪𑌤𑌯𑌶𑍍𑌚 𑌮𑌨𑍍𑌯𑍁᳴𑌕𑍃-[]
+ -𑌭𑍍𑌯𑌃। 𑌪𑌾𑌪𑍇𑌭𑍍𑌯𑍋᳴
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[20]
+Overfull \hbox (15.07991pt too wide) in paragraph at lines 492--503
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌧𑌾-[]  𑌨𑌾𑌮𑌾᳴-[]  𑌵𑌿𑌶𑍍𑌵᳴𑌮𑌸𑌿 [] -𑌶𑍍𑌵𑌾-[]  𑌸𑌰𑍍𑌵᳴𑌮
+𑌸𑌿 [] -𑌰𑍍𑌵𑌾𑌯𑍁𑌰𑌭𑌿𑌭𑍂𑌰𑍋𑌂
+
+Overfull \hbox (61.10231pt too wide) in paragraph at lines 492--503
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌵𑌿𑌷𑍍𑌣𑍁𑌰𑍍[]𑌹𑍃𑌦𑌯𑍞 𑌰𑍁𑌦𑍍𑌰𑌃 𑌶𑌿𑌖𑌾 𑌪𑍃𑌥𑌿𑌵𑍀 𑌯𑍋𑌨𑌿𑌃 𑌪𑍍𑌰𑌾𑌣
+𑌾𑌪𑌾𑌨𑌵𑍍𑌯𑌾𑌨𑍋𑌦𑌾𑌨𑌸𑌮𑌾𑌨𑌾
+
+Overfull \hbox (45.58871pt too wide) in paragraph at lines 492--503
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌸𑌪𑍍𑌰𑌾𑌣𑌾 𑌶𑍍𑌵𑍇𑌤𑌵𑌰𑍍𑌣𑌾 𑌸𑌾𑌙𑍍𑌖𑍍𑌯𑌾𑌯𑌨𑌸𑌗𑍋𑌤𑍍𑌰𑌾 𑌗𑌾𑌯𑌤𑍍𑌰𑍀 𑌚
+𑌤𑍁𑌰𑍍𑌵𑌿𑍞𑌶𑌤𑍍𑌯𑌕𑍍𑌷𑌰𑌾
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[21]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[22]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[23]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[24]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[25]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[26]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[27]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[28]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[29]
+Overfull \hbox (91.6375pt too wide) in paragraph at lines 706--712
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌹𑌂 [] -𑌰𑌜𑌾᳴ 𑌵𑌿-[] -𑌪𑍍𑌮𑌾 𑌭𑍂᳴𑌯𑌾-[] --[]  𑌸𑍍𑌵𑌾𑌹𑌾॑
+। 𑌵𑌾𑌙𑍍𑌮𑌨𑌶𑍍𑌚𑌕𑍍𑌷𑍁𑌃𑌶𑍍𑌰𑍋𑌤𑍍𑌰𑌜𑌿𑌹𑍍𑌵𑌾𑌘𑍍𑌰𑌾𑌣𑌰𑍇𑌤𑍋-
+
+Overfull \hbox (22.1839pt too wide) in paragraph at lines 706--712
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌪𑍍𑌮𑌾 𑌭𑍂᳴𑌯𑌾-[] --[]  𑌸𑍍𑌵𑌾𑌹𑌾॑। 𑌤𑍍𑌵𑌕𑍍𑌚𑌰𑍍𑌮𑌮𑌾𑍞𑌸𑌰𑍁𑌧𑌿
+𑌰𑌮𑍇𑌦𑍋𑌮𑌜𑍍𑌜𑌾𑌸𑍍𑌨𑌾𑌯𑌵𑍋-
+
+Overfull \hbox (43.85345pt too wide) in paragraph at lines 706--712
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌸𑍍𑌵𑌾𑌹𑌾॑। 𑌶𑌿𑌰𑌃𑌪𑌾𑌣𑌿𑌪𑌾𑌦𑌪𑌾𑌰𑍍𑌶𑍍𑌵𑌪𑍃𑌷𑍍𑌠𑍋𑌰𑍂𑌦𑌰𑌜𑌙𑍍𑌘𑌶𑌿𑌶𑍍𑌞
+𑍋𑌪𑌸𑍍𑌥𑌪𑌾𑌯𑌵𑍋
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[30]
+Overfull \hbox (31.68312pt too wide) in paragraph at lines 713--729
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌹𑌂 [] -𑌰𑌜𑌾᳴ 𑌵𑌿-[] -𑌪𑍍𑌮𑌾 𑌭𑍂᳴𑌯𑌾-[] --[]  𑌸𑍍𑌵
+𑌾𑌹𑌾॑। 𑌶𑌬𑍍𑌦𑌸𑍍𑌪𑌰𑍍𑌶𑌰𑍂𑌪𑌰𑌸𑌗𑌨𑍍𑌧𑌾
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[31]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[32]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[33]
+Overfull \hbox (32.16069pt too wide) in paragraph at lines 819--829
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌦𑍍𑌧𑌾𑌯𑌾𑌂॑ [] -𑌣𑍇 𑌨𑌿𑌵𑌿᳴-[] -𑌮𑍃𑌤𑍞᳴ [] -𑌤𑌮𑍍
+। -[] -𑌣𑌮𑌨𑍍𑌨𑍇᳴𑌨𑌾𑌪𑍍𑌯𑌾𑌯𑌸𑍍𑌵।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[34]
+Overfull \hbox (18.3127pt too wide) in paragraph at lines 849--851
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌪𑍍𑌰𑌾𑌣𑌾𑌨𑌾𑌂 𑌗𑍍𑌰𑌨𑍍𑌥𑌿𑌰𑌸𑌿 𑌰𑍁𑌦𑍍𑌰𑍋 𑌮𑌾᳴ 𑌵𑌿-[] -𑌨𑍍𑌤𑌕𑌃
+। 𑌤𑍇𑌨𑌾𑌨𑍍𑌨𑍇𑌨𑌾॑𑌪𑍍𑌯𑌾-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[35]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[36]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[37]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[38]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[39]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[40] (/usr/share/texlive/texmf-dist/tex/latex/bbding/Uding.fd)
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[41])
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[42] (./Mahanarayanopanishat.aux)
+
+Package rerunfilecheck Warning: File `Mahanarayanopanishat.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+(see the transcript file for additional information)
+Output written on Mahanarayanopanishat.pdf (42 pages).
+Transcript written on Mahanarayanopanishat.log.
+---------------------------------------------------------------
+File path         : ../aranyakas/NamoVache.tex
+PDF target        : NamoVache.pdf
+Rebuilding NamoVache.pdf...
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+**entering extended mode
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+*(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+*(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo))
+*(./shloka.sty (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty))
+(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(Please type a command or say `\end')
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*No file NamoVache.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(1)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(1)/m/n' instead on input line 0.
+
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(2)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(2)/m/n' instead on input line 0.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def)
+*(../aranyakas/NamoVache.tex
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/B' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/BI' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[1]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[2]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[3]
+Overfull \hbox (12.63913pt too wide) in paragraph at lines 87--97
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌵𑍃-[]  𑌅𑌶𑍍𑌵᳴𑌸𑍍𑌯 [] -𑌷𑍍𑌪𑌦᳴𑌸𑌿। 𑌵𑌰𑍁᳴𑌣𑌸𑍍𑌤𑍍𑌵𑌾 [] 
+-𑌤𑌵𑍍𑌰᳴-[]  𑌆𑌧𑍂᳴𑌪𑌯𑌤𑍁।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[4]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[5]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[6]
+Overfull \hbox (12.4639pt too wide) in paragraph at lines 243--253
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] --[] -𑌨𑌸𑍍𑌤𑍍𑌵𑌾᳴ 𑌮𑌾-[] -𑌤𑍋 [] -𑌰𑍁𑌦𑍍𑌭𑌿᳴𑌰𑍁𑌤𑍍
+𑌤-[] -𑌤𑍋 𑌰𑍋᳴𑌚-[] -𑌤𑍍𑌵𑌾𑌨𑍁᳴𑌷𑍍𑌟𑍁𑌭𑍇-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[7]
+Overfull \hbox (22.75511pt too wide) in paragraph at lines 291--301
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌵𑌿𑌶𑍍𑌵᳴𑌸𑍍𑌯 𑌵𑌚𑌸𑌸𑍍𑌪𑌤𑍇। 𑌵𑌿𑌶𑍍𑌵᳴𑌸𑍍𑌯 𑌤𑌪𑌸𑌸𑍍𑌪𑌤𑍇। 𑌵𑌿𑌶𑍍𑌵᳴
+𑌸𑍍𑌯 𑌬𑍍𑌰𑌹𑍍𑌮𑌣𑌸𑍍𑌪𑌤𑍇।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[8]
+Overfull \hbox (10.24396pt too wide) in paragraph at lines 303--313
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌨𑌾𑌮𑍍। 𑌸𑌂 [] -𑌵𑍋 [] -𑌵𑍇𑌨᳴ 𑌸-[] -𑌤𑍍𑌰𑌾 𑌯᳴𑌤𑌿𑌷𑍍𑌟। 𑌸
+𑍞 𑌸𑍂𑌰𑍍𑌯𑍇᳴𑌣𑌾𑌰𑍁𑌕𑍍𑌤।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[9]
+Overfull \hbox (8.69354pt too wide) in paragraph at lines 355--365
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌪𑍇𑌰᳴𑌵𑌃। -[] --[] -𑌗𑍍𑌵𑍃-[]  𑌲𑍋𑌹𑌿᳴𑌤𑍇𑌨। -[] -𑌶𑍍𑌵𑌿
+𑌭𑍍𑌯𑌾𑌂॑ 𑌪𑌿𑌨𑍍𑌵𑌸𑍍𑌵। 𑌸𑌰᳴𑌸𑍍𑌵𑌤𑍍𑌯𑍈
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[10]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[11]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[12]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[13]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[14]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[15]
+Overfull \hbox (7.77914pt too wide) in paragraph at lines 632--640
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌯𑌾 𑌦᳴𑌕𑍍𑌷𑌿-[] -𑌤𑌃। 𑌯𑌾 [] -𑌶𑍍𑌚𑌾𑌤𑍍। 𑌯𑍋𑌤𑍍𑌤᳴-[] -𑌤𑌃
+। 𑌯𑍋𑌪𑌰𑌿᳴𑌷𑍍𑌟𑌾-[] -𑌦𑍍𑌯𑍁𑌦𑌾𑌪᳴𑌤𑌤𑍍।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[16]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[17]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[18]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[19]
+Overfull \hbox (27.2911pt too wide) in paragraph at lines 795--801
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌮𑌾𑌸𑌾॑𑌸𑍍𑌤𑍍𑌵𑌾 𑌶𑍍𑌰𑌪𑌯𑌨𑍍𑌤𑍁। -[] -𑌤𑌵᳴𑌸𑍍𑌤𑍍𑌵𑌾 𑌪𑌚𑌨𑍍𑌤𑍁। 
+-[] --[] --[] -𑌰𑌸𑍍𑌤𑍍𑌵𑌾᳴ 𑌹𑌨𑍍𑌤𑍍𑌵𑌸𑍗॥67॥
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[20]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[21]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[22]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[23]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[24]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[25]
+Overfull \hbox (19.6591pt too wide) in paragraph at lines 1046--1056
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌭𑌿-[] -𑌕𑍍𑌤𑍁-[]  𑌪𑌰𑌿᳴𑌪𑌾𑌤-[] -𑌸𑍍𑌮𑌾𑌨𑌰𑌿᳴𑌷𑍍𑌟
+𑍇𑌭𑌿𑌰𑌶𑍍𑌵𑌿-[]  𑌸𑍗𑌭᳴𑌗𑍇𑌭𑌿𑌃।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[26]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[27]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[28] (/usr/share/texlive/texmf-dist/tex/latex/bbding/Uding.fd))
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[29] (./NamoVache.aux)
+
+Package rerunfilecheck Warning: File `NamoVache.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+(see the transcript file for additional information)
+Output written on NamoVache.pdf (29 pages).
+Transcript written on NamoVache.log.
+---------------------------------------------------------------
+File path         : ../aranyakas/PareyuvaMsam.tex
+PDF target        : PareyuvaMsam.pdf
+Rebuilding PareyuvaMsam.pdf...
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+**entering extended mode
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+*(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+*(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo))
+*(./shloka.sty (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty))
+(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(Please type a command or say `\end')
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*No file PareyuvaMsam.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(1)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(1)/m/n' instead on input line 0.
+
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(2)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(2)/m/n' instead on input line 0.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def)
+*(../aranyakas/PareyuvaMsam.tex
+Overfull \hbox (19.31592pt too wide) in paragraph at lines 7--17
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] --[] --[] -𑌵𑌾𑍞𑌸𑌂᳴ [] -𑌵𑌤𑍋᳴ [] -𑌹𑍀𑌰𑌨𑍁᳴ []
+ -𑌹𑍁-[]  𑌪𑌨𑍍𑌥𑌾᳴𑌮𑌨𑌪𑌸𑍍𑌪-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/B' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/BI' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[1]
+Overfull \hbox (10.60876pt too wide) in paragraph at lines 43--58
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌮𑍍𑌯𑌾𑌨𑌾॑𑌮𑍍। -[] -𑌷 𑌯𑌶𑍍𑌚᳴-[] -𑌸𑍋 𑌦𑍇᳴-[] -𑌪𑌾-[] -
+𑌸𑍍𑌤𑌸𑍍𑌮𑌿᳴-[] -𑌵𑌾 [] -𑌮𑍃𑌤𑌾᳴ 𑌮𑌾𑌦𑌯𑌨𑍍𑌤𑌾𑌮𑍍।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[2]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[3]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[4]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[5]
+Overfull \hbox (11.99353pt too wide) in paragraph at lines 133--143
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌆𑌯𑌾᳴𑌤𑍁 [] -𑌵𑌃 [] -𑌮𑌨𑌾᳴𑌭𑌿-[] -𑌤𑌿𑌭𑌿᳴-[] -𑌮𑍋 𑌹᳴
+-[] -𑌹 𑌪𑍍𑌰𑌯᳴𑌤𑌾𑌭𑌿-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[6]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[7]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[8]
+Overfull \hbox (7.14793pt too wide) in paragraph at lines 204--214
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌵𑍍𑌯𑌚᳴𑌸𑌂 𑌪𑍃-[] -𑌵𑍀𑍞 [] -𑌶𑍇𑌵𑌾॑𑌮𑍍। 𑌊𑌰𑍍𑌣᳴𑌮𑍍𑌰𑌦𑌾 𑌯𑍁-
+[] -𑌤𑌿𑌰𑍍𑌦𑌕𑍍𑌷𑌿᳴𑌣𑌾𑌵-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[9]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[10]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[11]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[12]
+Overfull \hbox (28.72871pt too wide) in paragraph at lines 308--318
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌯𑌜𑌾𑌮𑌹𑍇। 𑌅𑌪᳴ []  𑌶𑍋𑌶𑍁᳴𑌚-[] -𑌘𑌮𑍍। 𑌪𑍍𑌰𑌯𑌦𑍍𑌭𑌨𑍍𑌦𑌿᳴𑌷𑍍
+𑌠 𑌏-[]  𑌪𑍍𑌰𑌾𑌸𑍍𑌮𑌾𑌕𑌾᳴𑌸𑌶𑍍𑌚
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[13]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[14] (/usr/share/texlive/texmf-dist/tex/latex/bbding/Uding.fd))
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[15]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[16] (./PareyuvaMsam.aux)
+
+Package rerunfilecheck Warning: File `PareyuvaMsam.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+(see the transcript file for additional information)
+Output written on PareyuvaMsam.pdf (16 pages).
+Transcript written on PareyuvaMsam.log.
+---------------------------------------------------------------
+File path         : ../aranyakas/SahaVai.tex
+PDF target        : SahaVai.pdf
+Rebuilding SahaVai.pdf...
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+**entering extended mode
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+*(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+*(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo))
+*(./shloka.sty (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty))
+(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(Please type a command or say `\end')
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*No file SahaVai.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(1)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(1)/m/n' instead on input line 0.
+
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(2)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(2)/m/n' instead on input line 0.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def)
+*(../aranyakas/SahaVai.tex
+Overfull \hbox (7.17917pt too wide) in paragraph at lines 11--12
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌸-[]  𑌵𑍈 [] -𑌵𑌾-[]  𑌚𑌾𑌸𑍁᳴𑌰𑌾𑌣𑌾𑌂 𑌚 [] -𑌜𑍍𑌞𑍗 𑌪𑍍
+𑌰𑌤᳴𑌤𑌾𑌵𑌾𑌸𑍍𑌤𑌾𑌂
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/B' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/BI' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[1]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[2]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[3]
+Overfull \hbox (9.13513pt too wide) in paragraph at lines 62--72
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌮𑌹𑌾-[] -𑌯𑌮𑍍। 𑌅𑌗𑍍𑌨𑍇᳴ [] -𑌤𑌾𑌨𑍍𑌪𑍍𑌰𑌣𑍁᳴𑌦𑌾 𑌨𑌃 [] -𑌪-
+[] -𑌨𑍍𑌪𑍍𑌰𑌤𑍍𑌯𑌜𑌾᳴𑌤𑌾𑌞𑍍𑌜𑌾𑌤𑌵𑍇𑌦𑍋
+
+Overfull \hbox (10.40233pt too wide) in paragraph at lines 62--72
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌦𑍍𑌭𑍗। 𑌸𑌹᳴𑌸𑌾 [] -𑌤𑌾𑌨𑍍𑌪𑍍𑌰𑌣𑍁᳴𑌦𑌾 𑌨𑌃 [] -𑌪-[] -
+𑌨𑍍𑌪𑍍𑌰𑌤𑍍𑌯𑌜𑌾᳴𑌤𑌾𑌞𑍍𑌜𑌾𑌤𑌵𑍇𑌦𑍋
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[4]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[5]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[6]
+Overfull \hbox (21.43752pt too wide) in paragraph at lines 116--117
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌣𑍍𑌡𑌾-[]  𑌤𑌾𑍟𑌸𑍍𑌤𑍇𑌷𑍍𑌵𑌨𑍍𑌵᳴𑌵𑌿𑌨𑍍𑌦-[] -𑌦𑍍𑌧𑌯𑌾᳴ []
+  𑌤𑌪᳴𑌸𑌾 []  𑌤𑌾𑌨𑍃𑌷᳴𑌯𑍋𑌽𑌬𑍍𑌰𑍁𑌵-
+
+Overfull \hbox (14.6095pt too wide) in paragraph at lines 116--117
+[]  \TU/NotoSerifGrantha(1)/b/n/14.4 𑌇𑌤𑍍𑌯𑍁𑌪᳴𑌤𑌿𑌷𑍍𑌠-[]  𑌯𑌦᳴-[] -𑌚𑍀-[] -𑌮𑍇𑌨𑍋॑ 𑌭𑍍𑌰𑍂
+𑌣-[] -𑌤𑍍𑌯𑌾-[] --𑌸𑍍𑌤𑌸𑍍𑌮𑌾॑𑌨𑍍𑌮𑍋𑌕𑍍𑌷𑍍𑌯-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[7]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[8]
+Overfull \hbox (11.2375pt too wide) in paragraph at lines 122--123
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌵𑌾𑌨𑌾᳴𑌮𑌭-[] -𑌨𑍍 𑌯𑌦𑍍𑌯𑌜𑍂𑍞᳴𑌷𑌿 [] -𑌤𑌾𑌹𑍁᳴𑌤-[]  𑌯𑌥𑍍𑌸𑌾
+𑌮𑌾᳴-[]  𑌸𑍋𑌮𑌾᳴𑌹𑍁𑌤-
+
+Overfull \hbox (11.1943pt too wide) in paragraph at lines 122--123
+[] \TU/NotoSerifGrantha(1)/b/n/14.4 -𑌵𑌾𑌃 [] -𑌰𑍍𑌗𑌂 [] -𑌕𑌮𑌾᳴-[] -𑌨𑍍 𑌬𑍍𑌰𑌹𑍍𑌮᳴-[]  𑌸
+𑌾𑌯𑍁᳴-[] -𑌮𑍃𑌷᳴𑌯𑍋𑌽𑌗𑌚𑍍𑌛𑌨𑍍॥13॥[] 
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[9]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[10]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[11]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[12]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[13]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[14]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[15]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[16])
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[17] (./SahaVai.aux)
+
+Package rerunfilecheck Warning: File `SahaVai.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+(see the transcript file for additional information)
+Output written on SahaVai.pdf (17 pages).
+Transcript written on SahaVai.log.
+---------------------------------------------------------------
+File path         : ../aranyakas/Taittiriyopanishat.tex
+PDF target        : Taittiriyopanishat.pdf
+Rebuilding Taittiriyopanishat.pdf...
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+**entering extended mode
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+*(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+*(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo))
+*(./shloka.sty (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty))
+(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(Please type a command or say `\end')
+*
+*
+*
+*
+*(Please type a command or say `\end')
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*No file Taittiriyopanishat.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(1)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(1)/m/n' instead on input line 0.
+
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifGrantha(2)/b/n' undefined
+(Font)              using `TU/NotoSerifGrantha(2)/m/n' instead on input line 0.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def)
+*(../aranyakas/Taittiriyopanishat.tex
+Overfull \hbox (18.61035pt too wide) in paragraph at lines 38--48
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌹 []  𑌯𑌶𑌃। -[] -𑌹 𑌨𑍗 𑌬𑍍𑌰᳴𑌹𑍍𑌮-[] -𑌰𑍍𑌚𑌸𑌮𑍍
+। 𑌅𑌥𑌾𑌤𑌃 𑌸𑍞𑌹𑌿𑌤𑌾𑌯𑌾
+
+Overfull \hbox (7.7191pt too wide) in paragraph at lines 38--48
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌉𑌪𑌨𑌿𑌷𑌦𑌂 𑌵𑍍𑌯𑌾॑𑌖𑍍𑌯𑌾-[] -𑌮𑌃। 𑌪𑌞𑍍𑌚𑌸𑍍𑌵𑌧𑌿𑌕᳴𑌰-[] -𑌷𑍁।
+ 𑌅𑌧𑌿𑌲𑍋𑌕𑌮𑌧𑌿-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/B' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans/BI' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[1]
+Overfull \hbox (6.22871pt too wide) in paragraph at lines 74--85
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌅𑌥𑌾-[] -𑌤𑍍𑌮𑌮𑍍। 𑌅𑌧𑌰𑌾𑌹𑌨𑍁𑌃 𑌪𑍂॑𑌰𑍍𑌵--[] -𑌪𑌮𑍍। 𑌉𑌤𑍍
+𑌤𑌰𑌾𑌹𑌨𑍁𑌰𑍁𑌤𑍍𑌤᳴𑌰-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[2]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[3]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[4]
+Overfull \hbox (10.06874pt too wide) in paragraph at lines 216--233
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌸𑍍𑌵𑌾𑌧𑍍𑌯𑌾𑌯𑌪𑍍𑌰𑌵᳴𑌚-[]  𑌚। 𑌪𑍍𑌰𑌜𑌨𑌶𑍍𑌚 𑌸𑍍𑌵𑌾𑌧𑍍𑌯𑌾𑌯𑌪𑍍𑌰𑌵᳴
+𑌚-[]  𑌚। 𑌪𑍍𑌰𑌜𑌾𑌤𑌿𑌶𑍍𑌚
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[5]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[6]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[7]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[8]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[9]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[10]
+Overfull \hbox (112.53426pt too wide) in paragraph at lines 487--503
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌏𑌷 𑌹𑍍𑌯𑍇𑌵𑌾𑌨᳴𑌨𑍍𑌦-[] -𑌤𑌿। -[] -𑌦𑌾 𑌹𑍍𑌯𑍇᳴𑌵𑍈-[]  𑌏𑌤𑌸
+𑍍𑌮𑌿𑌨𑍍𑌨𑌦𑍃𑌶𑍍𑌯𑍇𑌽𑌨𑌾𑌤𑍍𑌮𑍍𑌯𑍇𑌽𑌨𑌿𑌰𑍁𑌕𑍍𑌤𑍇𑌽𑌨𑌿𑌲𑌯𑌨𑍇𑌽𑌭𑌯𑌂
+
+Overfull \hbox (18.23592pt too wide) in paragraph at lines 505--517
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌷𑌾𑌽-[] -𑌦𑍍𑌵𑌾𑌤𑌃᳴ 𑌪𑌵𑌤𑍇। -[] -𑌷𑍋𑌦𑍇᳴-[]  𑌸𑍂
+𑌰𑍍𑌯𑌃᳴। 𑌭𑍀𑌷𑌾𑌽𑌸𑍍𑌮𑌾𑌦𑌗𑍍𑌨𑌿᳴-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[11]
+Overfull \hbox (18.56236pt too wide) in paragraph at lines 530--534
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 𑌤𑍇 𑌯𑍇 𑌶𑌤𑌮𑌾𑌜𑌾𑌨𑌜𑌾𑌨𑌾𑌂 𑌦𑍇𑌵𑌾𑌨𑌾᳴𑌮𑌾-[] -𑌨𑍍𑌦𑌾𑌃। 𑌸 𑌏𑌕
+𑌃 𑌕𑌰𑍍𑌮𑌦𑍇𑌵𑌾𑌨𑌾𑌂
+
+Overfull \hbox (19.89192pt too wide) in paragraph at lines 555--566
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌮𑌤𑌿। 𑌏𑌤𑌂 𑌪𑍍𑌰𑌾𑌣𑌮𑌯𑌮𑌾𑌤𑍍𑌮𑌾𑌨𑌮𑍁𑌪᳴𑌸-[] -𑌮𑌤𑌿। 𑌏𑌤𑌂 𑌮𑌨𑍋𑌮
+𑌯𑌮𑌾𑌤𑍍𑌮𑌾𑌨𑌮𑍁𑌪᳴-
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[12]
+Overfull \hbox (24.47835pt too wide) in paragraph at lines 580--585
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌹 𑌨𑌾᳴𑌵𑌵𑌤𑍁। -[] -𑌹 𑌨𑍗᳴ 𑌭𑍁𑌨𑌕𑍍𑌤𑍁। -[] -𑌹 [
+] -𑌰𑍍𑌯𑌂᳴ 𑌕𑌰𑌵𑌾𑌵𑌹𑍈।
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[13]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[14]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[15]
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[16] (/usr/share/texlive/texmf-dist/tex/latex/bbding/Uding.fd)
+Overfull \hbox (24.47835pt too wide) in paragraph at lines 779--785
+[]\TU/NotoSerifGrantha(1)/b/n/14.4 -[] -𑌹 𑌨𑌾᳴𑌵𑌵𑌤𑍁। -[] -𑌹 𑌨𑍗᳴ 𑌭𑍁𑌨𑌕𑍍𑌤𑍁। -[] -𑌹 [
+] -𑌰𑍍𑌯𑌂᳴ 𑌕𑌰𑌵𑌾𑌵𑌹𑍈।
+
+Overfull \hbox (33.744pt too wide) in paragraph at lines 779--785
+\TU/NotoSerifGrantha(1)/b/n/14.4 𑌶𑌾𑌨𑍍𑌤𑌿𑌃᳴॥ [] 
+)
+*
+*
+*
+*
+*
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[17]
+*
+*
+*
+*
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'Noto Sans' with script
+(fontspec)                'CustomDefault' and language 'Default'.
+
+[18] (./Taittiriyopanishat.aux)
+
+Package rerunfilecheck Warning: File `Taittiriyopanishat.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+(see the transcript file for additional information)
+Output written on Taittiriyopanishat.pdf (18 pages).
+Transcript written on Taittiriyopanishat.log.
